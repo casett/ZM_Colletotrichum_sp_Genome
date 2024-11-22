@@ -1,0 +1,1440 @@
+Identifier    	Cytoplasmic effector	Apoplastic effector 	Non-effector        	Prediction          
+SGCOL_000028-T1 	Y (0.704)           	-                   	-                   	Cytoplasmic effector
+SGCOL_000029-T1 	-                   	-                   	Y (0.908)           	Non-effector
+SGCOL_000042-T1 	-                   	-                   	Y (0.725)           	Non-effector
+SGCOL_000054-T1 	-                   	-                   	Y (0.807)           	Non-effector
+SGCOL_000060-T1 	-                   	-                   	Y (0.522)           	Non-effector
+SGCOL_000061-T1 	Y (0.599)           	Y (0.887)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_000070-T1 	-                   	-                   	Y (0.803)           	Non-effector
+SGCOL_000072-T1 	-                   	Y (0.866)           	-                   	Apoplastic effector
+SGCOL_000082-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_000084-T1 	-                   	-                   	Y (0.702)           	Non-effector
+SGCOL_000090-T1 	-                   	Y (0.626)           	-                   	Apoplastic effector
+SGCOL_000091-T1 	-                   	-                   	Y (0.755)           	Non-effector
+SGCOL_000094-T1 	-                   	Y (0.58)           	-                   	Apoplastic effector
+SGCOL_000101-T1 	-                   	-                   	Y (0.9)           	Non-effector
+SGCOL_000108-T1 	-                   	-                   	Y (0.794)           	Non-effector
+SGCOL_000115-T1 	-                   	-                   	Y (0.925)           	Non-effector
+SGCOL_000119-T1 	-                   	-                   	Y (0.735)           	Non-effector
+SGCOL_000128-T1 	-                   	Y (0.97)           	-                   	Apoplastic effector
+SGCOL_000130-T1 	Y (0.732)           	-                   	-                   	Cytoplasmic effector
+SGCOL_000137-T1 	-                   	-                   	Y (0.848)           	Non-effector
+SGCOL_000151-T1 	-                   	-                   	Y (0.615)           	Non-effector
+SGCOL_000153-T1 	-                   	-                   	Y (0.81)           	Non-effector
+SGCOL_000170-T1 	-                   	-                   	Y (0.662)           	Non-effector
+SGCOL_000187-T1 	-                   	Y (0.955)           	-                   	Apoplastic effector
+SGCOL_000196-T1 	-                   	-                   	Y (0.976)           	Non-effector
+SGCOL_000199-T1 	-                   	-                   	Y (0.933)           	Non-effector
+SGCOL_000205-T1 	-                   	-                   	Y (0.981)           	Non-effector
+SGCOL_000206-T1 	-                   	-                   	Y (0.903)           	Non-effector
+SGCOL_000213-T1 	-                   	-                   	Y (0.98)           	Non-effector
+SGCOL_000219-T1 	-                   	-                   	Y (0.865)           	Non-effector
+SGCOL_000220-T1 	-                   	-                   	Y (0.936)           	Non-effector
+SGCOL_000229-T1 	Y (0.749)           	-                   	-                   	Cytoplasmic effector
+SGCOL_000236-T1 	-                   	-                   	Y (0.701)           	Non-effector
+SGCOL_000249-T1 	-                   	-                   	Y (0.832)           	Non-effector
+SGCOL_000250-T1 	Y (0.814)           	-                   	-                   	Cytoplasmic effector
+SGCOL_000263-T1 	-                   	Y (0.58)           	-                   	Apoplastic effector
+SGCOL_000272-T1 	-                   	-                   	Y (0.897)           	Non-effector
+SGCOL_000276-T1 	-                   	-                   	Y (0.753)           	Non-effector
+SGCOL_000278-T1 	-                   	-                   	Y (0.559)           	Non-effector
+SGCOL_000283-T1 	-                   	-                   	Y (0.815)           	Non-effector
+SGCOL_000286-T1 	-                   	-                   	Y (0.983)           	Non-effector
+SGCOL_000288-T1 	Y (0.518)           	-                   	-                   	Cytoplasmic effector
+SGCOL_000302-T1 	-                   	-                   	Y (0.84)           	Non-effector
+SGCOL_000304-T1 	-                   	-                   	Y (0.954)           	Non-effector
+SGCOL_000316-T1 	-                   	-                   	Y (0.663)           	Non-effector
+SGCOL_000320-T1 	-                   	-                   	Y (0.772)           	Non-effector
+SGCOL_000323-T1 	-                   	-                   	Y (0.61)           	Non-effector
+SGCOL_000331-T1 	Y (0.902)           	-                   	-                   	Cytoplasmic effector
+SGCOL_000333-T1 	-                   	-                   	Y (0.908)           	Non-effector
+SGCOL_000334-T1 	-                   	-                   	Y (0.618)           	Non-effector
+SGCOL_000341-T1 	-                   	-                   	Y (0.712)           	Non-effector
+SGCOL_000345-T1 	-                   	-                   	Y (0.773)           	Non-effector
+SGCOL_000352-T1 	-                   	-                   	Y (0.786)           	Non-effector
+SGCOL_000353-T1 	-                   	Y (0.686)           	-                   	Apoplastic effector
+SGCOL_000355-T1 	-                   	-                   	Y (0.849)           	Non-effector
+SGCOL_000372-T1 	-                   	Y (0.64)           	-                   	Apoplastic effector
+SGCOL_000377-T1 	-                   	-                   	Y (0.926)           	Non-effector
+SGCOL_000378-T1 	-                   	Y (0.925)           	-                   	Apoplastic effector
+SGCOL_000407-T1 	-                   	Y (0.515)           	-                   	Apoplastic effector
+SGCOL_000417-T1 	-                   	-                   	Y (0.703)           	Non-effector
+SGCOL_000418-T1 	-                   	-                   	Y (0.592)           	Non-effector
+SGCOL_000420-T1 	-                   	-                   	Y (0.56)           	Non-effector
+SGCOL_000430-T1 	-                   	-                   	Y (0.54)           	Non-effector
+SGCOL_000434-T1 	-                   	-                   	Y (0.961)           	Non-effector
+SGCOL_000436-T1 	-                   	Y (0.677)           	-                   	Apoplastic effector
+SGCOL_000438-T1 	-                   	-                   	Y (0.757)           	Non-effector
+SGCOL_000440-T1 	-                   	-                   	Y (0.884)           	Non-effector
+SGCOL_000442-T1 	-                   	Y (0.646)           	-                   	Apoplastic effector
+SGCOL_000448-T1 	-                   	Y (0.505)           	-                   	Apoplastic effector
+SGCOL_000456-T1 	-                   	Y (0.71)           	-                   	Apoplastic effector
+SGCOL_000483-T1 	-                   	Y (0.922)           	-                   	Apoplastic effector
+SGCOL_000484-T1 	Y (0.726)           	Y (0.924)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_000489-T1 	-                   	-                   	Y (0.646)           	Non-effector
+SGCOL_000513-T1 	-                   	-                   	Y (0.591)           	Non-effector
+SGCOL_000528-T1 	-                   	-                   	Y (0.502)           	Non-effector
+SGCOL_000531-T1 	-                   	-                   	Y (0.934)           	Non-effector
+SGCOL_000534-T1 	-                   	-                   	Y (0.502)           	Non-effector
+SGCOL_000541-T1 	-                   	-                   	Y (0.731)           	Non-effector
+SGCOL_000557-T1 	-                   	-                   	Y (0.907)           	Non-effector
+SGCOL_000565-T1 	-                   	-                   	Y (0.631)           	Non-effector
+SGCOL_000584-T1 	-                   	-                   	Y (0.793)           	Non-effector
+SGCOL_000593-T1 	-                   	-                   	Y (0.525)           	Non-effector
+SGCOL_000599-T1 	-                   	-                   	Y (0.802)           	Non-effector
+SGCOL_000602-T1 	-                   	-                   	Y (0.836)           	Non-effector
+SGCOL_000619-T1 	-                   	-                   	Y (0.9)           	Non-effector
+SGCOL_000632-T1 	-                   	Y (0.508)           	-                   	Apoplastic effector
+SGCOL_000634-T1 	-                   	-                   	Y (0.895)           	Non-effector
+SGCOL_000641-T1 	-                   	-                   	Y (0.918)           	Non-effector
+SGCOL_000655-T1 	-                   	-                   	Y (0.936)           	Non-effector
+SGCOL_000656-T1 	-                   	-                   	Y (0.531)           	Non-effector
+SGCOL_000686-T1 	-                   	-                   	Y (0.682)           	Non-effector
+SGCOL_000698-T1 	-                   	-                   	Y (0.83)           	Non-effector
+SGCOL_000699-T1 	-                   	-                   	Y (0.545)           	Non-effector
+SGCOL_000700-T1 	Y (0.566)           	-                   	-                   	Cytoplasmic effector
+SGCOL_000713-T1 	-                   	-                   	Y (0.661)           	Non-effector
+SGCOL_000718-T1 	-                   	-                   	Y (0.77)           	Non-effector
+SGCOL_000720-T1 	Y (0.708)           	-                   	-                   	Cytoplasmic effector
+SGCOL_000722-T1 	-                   	-                   	Y (0.627)           	Non-effector
+SGCOL_000731-T1 	-                   	Y (0.685)           	-                   	Apoplastic effector
+SGCOL_000736-T1 	-                   	Y (0.514)           	-                   	Apoplastic effector
+SGCOL_000784-T1 	-                   	Y (0.767)           	-                   	Apoplastic effector
+SGCOL_000792-T1 	Y (0.568)           	-                   	-                   	Cytoplasmic effector
+SGCOL_000815-T1 	-                   	-                   	Y (0.756)           	Non-effector
+SGCOL_000816-T1 	-                   	-                   	Y (0.716)           	Non-effector
+SGCOL_000836-T1 	-                   	-                   	Y (0.886)           	Non-effector
+SGCOL_000837-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_000850-T1 	Y (0.742)           	-                   	-                   	Cytoplasmic effector
+SGCOL_000853-T1 	-                   	-                   	Y (0.602)           	Non-effector
+SGCOL_000863-T1 	-                   	-                   	Y (0.864)           	Non-effector
+SGCOL_000868-T1 	-                   	Y (0.748)           	-                   	Apoplastic effector
+SGCOL_000871-T1 	-                   	-                   	Y (0.921)           	Non-effector
+SGCOL_000874-T1 	-                   	-                   	Y (0.87)           	Non-effector
+SGCOL_000875-T1 	-                   	-                   	Y (0.597)           	Non-effector
+SGCOL_000884-T1 	-                   	-                   	Y (0.592)           	Non-effector
+SGCOL_000949-T1 	-                   	-                   	Y (0.836)           	Non-effector
+SGCOL_000950-T1 	-                   	-                   	Y (0.588)           	Non-effector
+SGCOL_000976-T1 	-                   	Y (0.6)           	-                   	Apoplastic effector
+SGCOL_000977-T1 	-                   	-                   	Y (0.808)           	Non-effector
+SGCOL_000988-T1 	-                   	-                   	Y (0.832)           	Non-effector
+SGCOL_000995-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_001006-T1 	-                   	-                   	Y (0.581)           	Non-effector
+SGCOL_001009-T1 	-                   	-                   	Y (0.639)           	Non-effector
+SGCOL_001012-T1 	Y (0.555)           	-                   	-                   	Cytoplasmic effector
+SGCOL_001018-T1 	-                   	-                   	Y (0.717)           	Non-effector
+SGCOL_001032-T1 	-                   	-                   	Y (0.977)           	Non-effector
+SGCOL_001035-T1 	-                   	Y (0.909)           	-                   	Apoplastic effector
+SGCOL_001037-T1 	-                   	Y (0.555)           	-                   	Apoplastic effector
+SGCOL_001042-T1 	-                   	-                   	Y (0.967)           	Non-effector
+SGCOL_001044-T1 	-                   	-                   	Y (0.721)           	Non-effector
+SGCOL_001046-T1 	-                   	-                   	Y (0.923)           	Non-effector
+SGCOL_001054-T1 	-                   	Y (0.801)           	-                   	Apoplastic effector
+SGCOL_001055-T1 	-                   	-                   	Y (0.507)           	Non-effector
+SGCOL_001056-T1 	-                   	-                   	Y (0.878)           	Non-effector
+SGCOL_001057-T1 	-                   	-                   	Y (0.52)           	Non-effector
+SGCOL_001083-T1 	-                   	-                   	Y (0.91)           	Non-effector
+SGCOL_001087-T1 	-                   	-                   	Y (0.919)           	Non-effector
+SGCOL_001092-T1 	-                   	-                   	Y (0.626)           	Non-effector
+SGCOL_001095-T1 	-                   	-                   	Y (0.933)           	Non-effector
+SGCOL_001101-T1 	-                   	-                   	Y (0.576)           	Non-effector
+SGCOL_001126-T1 	-                   	Y (0.504)           	-                   	Apoplastic effector
+SGCOL_001154-T1 	-                   	-                   	Y (0.923)           	Non-effector
+SGCOL_001155-T1 	-                   	-                   	Y (0.891)           	Non-effector
+SGCOL_001157-T1 	Y (0.707)           	-                   	-                   	Cytoplasmic effector
+SGCOL_001158-T1 	-                   	Y (0.922)           	-                   	Apoplastic effector
+SGCOL_001183-T1 	-                   	-                   	Y (0.964)           	Non-effector
+SGCOL_001187-T1 	-                   	-                   	Y (0.899)           	Non-effector
+SGCOL_001206-T1 	-                   	-                   	Y (0.795)           	Non-effector
+SGCOL_001223-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCOL_001238-T1 	-                   	Y (0.536)           	-                   	Apoplastic effector
+SGCOL_001243-T1 	Y (0.779)           	-                   	-                   	Cytoplasmic effector
+SGCOL_001257-T1 	-                   	Y (0.908)           	-                   	Apoplastic effector
+SGCOL_001274-T1 	-                   	-                   	Y (0.744)           	Non-effector
+SGCOL_001288-T1 	-                   	-                   	Y (0.601)           	Non-effector
+SGCOL_001292-T1 	-                   	Y (0.516)           	-                   	Apoplastic effector
+SGCOL_001309-T1 	-                   	-                   	Y (0.722)           	Non-effector
+SGCOL_001311-T1 	Y (0.558)           	Y (0.727)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_001313-T1 	-                   	Y (0.943)           	-                   	Apoplastic effector
+SGCOL_001325-T1 	-                   	Y (0.966)           	-                   	Apoplastic effector
+SGCOL_001330-T1 	-                   	Y (0.903)           	-                   	Apoplastic effector
+SGCOL_001337-T1 	Y (0.591)           	Y (0.878)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_001339-T1 	-                   	-                   	Y (0.533)           	Non-effector
+SGCOL_001340-T1 	-                   	-                   	Y (0.737)           	Non-effector
+SGCOL_001347-T1 	-                   	-                   	Y (0.772)           	Non-effector
+SGCOL_001351-T1 	Y (0.57)           	-                   	-                   	Cytoplasmic effector
+SGCOL_001363-T1 	-                   	Y (0.643)           	-                   	Apoplastic effector
+SGCOL_001370-T1 	Y (0.803)           	Y (0.797)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_001372-T1 	-                   	-                   	Y (0.549)           	Non-effector
+SGCOL_001410-T1 	-                   	-                   	Y (0.797)           	Non-effector
+SGCOL_001426-T1 	-                   	Y (0.56)           	-                   	Apoplastic effector
+SGCOL_001427-T1 	-                   	-                   	Y (0.668)           	Non-effector
+SGCOL_001436-T1 	-                   	-                   	Y (0.612)           	Non-effector
+SGCOL_001440-T1 	-                   	-                   	Y (0.731)           	Non-effector
+SGCOL_001459-T1 	-                   	-                   	Y (0.701)           	Non-effector
+SGCOL_001461-T1 	-                   	Y (0.728)           	-                   	Apoplastic effector
+SGCOL_001465-T1 	-                   	Y (0.702)           	-                   	Apoplastic effector
+SGCOL_001466-T1 	-                   	-                   	Y (0.888)           	Non-effector
+SGCOL_001489-T1 	-                   	Y (0.6)           	-                   	Apoplastic effector
+SGCOL_001496-T1 	-                   	Y (0.631)           	-                   	Apoplastic effector
+SGCOL_001497-T1 	-                   	-                   	Y (0.659)           	Non-effector
+SGCOL_001501-T1 	-                   	-                   	Y (0.786)           	Non-effector
+SGCOL_001507-T1 	-                   	-                   	Y (0.837)           	Non-effector
+SGCOL_001518-T1 	-                   	-                   	Y (0.84)           	Non-effector
+SGCOL_001519-T1 	Y (0.684)           	-                   	-                   	Cytoplasmic effector
+SGCOL_001521-T1 	-                   	Y (0.686)           	-                   	Apoplastic effector
+SGCOL_001524-T1 	-                   	-                   	Y (0.927)           	Non-effector
+SGCOL_001530-T1 	-                   	-                   	Y (0.754)           	Non-effector
+SGCOL_001534-T1 	-                   	-                   	Y (0.576)           	Non-effector
+SGCOL_001554-T1 	-                   	-                   	Y (0.633)           	Non-effector
+SGCOL_001558-T1 	-                   	-                   	Y (0.57)           	Non-effector
+SGCOL_001584-T1 	-                   	-                   	Y (0.869)           	Non-effector
+SGCOL_001585-T1 	-                   	-                   	Y (0.533)           	Non-effector
+SGCOL_001591-T1 	-                   	-                   	Y (0.505)           	Non-effector
+SGCOL_001593-T1 	-                   	-                   	Y (0.845)           	Non-effector
+SGCOL_001626-T1 	-                   	-                   	Y (0.873)           	Non-effector
+SGCOL_001643-T1 	-                   	Y (0.519)           	-                   	Apoplastic effector
+SGCOL_001644-T1 	Y (0.802)           	Y (0.922)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_001664-T1 	Y (0.564)           	-                   	-                   	Cytoplasmic effector
+SGCOL_001672-T1 	-                   	-                   	Y (0.881)           	Non-effector
+SGCOL_001679-T1 	-                   	-                   	Y (0.853)           	Non-effector
+SGCOL_001680-T1 	Y (0.684)           	-                   	-                   	Cytoplasmic effector
+SGCOL_001681-T1 	-                   	-                   	Y (0.856)           	Non-effector
+SGCOL_001682-T1 	-                   	-                   	Y (0.799)           	Non-effector
+SGCOL_001684-T1 	Y (0.621)           	Y (0.699)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_001685-T1 	-                   	-                   	Y (0.585)           	Non-effector
+SGCOL_001689-T1 	-                   	Y (0.735)           	-                   	Apoplastic effector
+SGCOL_001710-T1 	-                   	-                   	Y (0.948)           	Non-effector
+SGCOL_001711-T1 	-                   	Y (0.676)           	-                   	Apoplastic effector
+SGCOL_001757-T1 	-                   	-                   	Y (0.741)           	Non-effector
+SGCOL_001764-T1 	-                   	-                   	Y (0.785)           	Non-effector
+SGCOL_001768-T1 	-                   	-                   	Y (0.884)           	Non-effector
+SGCOL_001771-T1 	-                   	-                   	Y (0.724)           	Non-effector
+SGCOL_001772-T1 	-                   	-                   	Y (0.625)           	Non-effector
+SGCOL_001779-T1 	Y (0.653)           	-                   	-                   	Cytoplasmic effector
+SGCOL_001782-T1 	-                   	-                   	Y (0.841)           	Non-effector
+SGCOL_001784-T1 	Y (0.732)           	-                   	-                   	Cytoplasmic effector
+SGCOL_001785-T1 	-                   	-                   	Y (0.873)           	Non-effector
+SGCOL_001789-T1 	-                   	Y (0.57)           	-                   	Apoplastic effector
+SGCOL_001791-T1 	-                   	-                   	Y (0.855)           	Non-effector
+SGCOL_001807-T1 	-                   	-                   	Y (0.807)           	Non-effector
+SGCOL_001811-T1 	-                   	-                   	Y (0.501)           	Non-effector
+SGCOL_001812-T1 	-                   	-                   	Y (0.961)           	Non-effector
+SGCOL_001814-T1 	-                   	Y (0.787)           	-                   	Apoplastic effector
+SGCOL_001815-T1 	-                   	-                   	Y (0.714)           	Non-effector
+SGCOL_001816-T1 	-                   	-                   	Y (0.844)           	Non-effector
+SGCOL_001817-T1 	-                   	Y (0.843)           	-                   	Apoplastic effector
+SGCOL_001833-T1 	-                   	-                   	Y (0.934)           	Non-effector
+SGCOL_001846-T1 	-                   	-                   	Y (0.971)           	Non-effector
+SGCOL_001847-T1 	-                   	-                   	Y (0.768)           	Non-effector
+SGCOL_001849-T1 	-                   	Y (0.752)           	-                   	Apoplastic effector
+SGCOL_001865-T1 	-                   	-                   	Y (0.567)           	Non-effector
+SGCOL_001867-T1 	-                   	-                   	Y (0.731)           	Non-effector
+SGCOL_001872-T1 	-                   	-                   	Y (0.612)           	Non-effector
+SGCOL_001873-T1 	-                   	-                   	Y (0.899)           	Non-effector
+SGCOL_001899-T1 	-                   	-                   	Y (0.961)           	Non-effector
+SGCOL_001902-T1 	-                   	-                   	Y (0.922)           	Non-effector
+SGCOL_001905-T1 	-                   	Y (0.501)           	-                   	Apoplastic effector
+SGCOL_001909-T1 	-                   	-                   	Y (0.52)           	Non-effector
+SGCOL_001916-T1 	-                   	-                   	Y (0.744)           	Non-effector
+SGCOL_001932-T1 	-                   	-                   	Y (0.795)           	Non-effector
+SGCOL_001943-T1 	-                   	Y (0.988)           	-                   	Apoplastic effector
+SGCOL_001946-T1 	-                   	-                   	Y (0.924)           	Non-effector
+SGCOL_001953-T1 	-                   	Y (0.526)           	-                   	Apoplastic effector
+SGCOL_001960-T1 	-                   	-                   	Y (0.549)           	Non-effector
+SGCOL_001963-T1 	-                   	-                   	Y (0.566)           	Non-effector
+SGCOL_001965-T1 	-                   	Y (0.52)           	-                   	Apoplastic effector
+SGCOL_001972-T1 	-                   	-                   	Y (0.917)           	Non-effector
+SGCOL_001973-T1 	-                   	-                   	Y (0.926)           	Non-effector
+SGCOL_001990-T1 	Y (0.806)           	Y (0.708)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_001996-T1 	Y (0.593)           	Y (0.803)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_001998-T1 	-                   	Y (0.826)           	-                   	Apoplastic effector
+SGCOL_002001-T1 	-                   	-                   	Y (0.916)           	Non-effector
+SGCOL_002005-T1 	-                   	-                   	Y (0.785)           	Non-effector
+SGCOL_002021-T1 	-                   	-                   	Y (0.73)           	Non-effector
+SGCOL_002023-T1 	-                   	Y (0.81)           	-                   	Apoplastic effector
+SGCOL_002024-T1 	-                   	-                   	Y (0.52)           	Non-effector
+SGCOL_002046-T1 	-                   	-                   	Y (0.795)           	Non-effector
+SGCOL_002048-T1 	-                   	Y (0.704)           	-                   	Apoplastic effector
+SGCOL_002063-T1 	Y (0.758)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002082-T1 	-                   	-                   	Y (0.775)           	Non-effector
+SGCOL_002091-T1 	-                   	-                   	Y (0.658)           	Non-effector
+SGCOL_002139-T1 	-                   	-                   	Y (0.707)           	Non-effector
+SGCOL_002148-T1 	Y (0.502)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002179-T1 	-                   	-                   	Y (0.886)           	Non-effector
+SGCOL_002202-T1 	-                   	-                   	Y (0.828)           	Non-effector
+SGCOL_002216-T1 	-                   	-                   	Y (0.895)           	Non-effector
+SGCOL_002269-T1 	-                   	Y (0.632)           	-                   	Apoplastic effector
+SGCOL_002271-T1 	-                   	Y (0.538)           	-                   	Apoplastic effector
+SGCOL_002272-T1 	-                   	Y (0.642)           	-                   	Apoplastic effector
+SGCOL_002281-T1 	-                   	-                   	Y (0.927)           	Non-effector
+SGCOL_002294-T1 	Y (0.794)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002306-T1 	Y (0.622)           	Y (0.609)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_002314-T1 	-                   	Y (0.539)           	-                   	Apoplastic effector
+SGCOL_002315-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCOL_002324-T1 	Y (0.559)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002333-T1 	-                   	-                   	Y (0.941)           	Non-effector
+SGCOL_002334-T1 	-                   	-                   	Y (0.853)           	Non-effector
+SGCOL_002342-T1 	Y (0.785)           	Y (0.561)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_002345-T1 	-                   	-                   	Y (0.713)           	Non-effector
+SGCOL_002347-T1 	-                   	-                   	Y (0.855)           	Non-effector
+SGCOL_002348-T1 	Y (0.835)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002350-T1 	-                   	Y (0.813)           	-                   	Apoplastic effector
+SGCOL_002351-T1 	-                   	Y (0.594)           	-                   	Apoplastic effector
+SGCOL_002358-T1 	-                   	Y (0.8)           	-                   	Apoplastic effector
+SGCOL_002361-T1 	-                   	-                   	Y (0.735)           	Non-effector
+SGCOL_002388-T1 	Y (0.822)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002397-T1 	-                   	-                   	Y (0.69)           	Non-effector
+SGCOL_002404-T1 	-                   	-                   	Y (0.952)           	Non-effector
+SGCOL_002425-T1 	Y (0.783)           	Y (0.691)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_002433-T1 	Y (0.667)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002434-T1 	-                   	Y (0.671)           	-                   	Apoplastic effector
+SGCOL_002439-T1 	-                   	-                   	Y (0.978)           	Non-effector
+SGCOL_002451-T1 	-                   	-                   	Y (0.972)           	Non-effector
+SGCOL_002457-T1 	-                   	-                   	Y (0.952)           	Non-effector
+SGCOL_002460-T1 	-                   	-                   	Y (0.92)           	Non-effector
+SGCOL_002462-T1 	-                   	-                   	Y (0.882)           	Non-effector
+SGCOL_002464-T1 	-                   	Y (0.779)           	-                   	Apoplastic effector
+SGCOL_002466-T1 	Y (0.722)           	Y (0.851)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_002467-T1 	-                   	Y (0.67)           	-                   	Apoplastic effector
+SGCOL_002476-T1 	-                   	-                   	Y (0.891)           	Non-effector
+SGCOL_002478-T1 	-                   	Y (0.874)           	-                   	Apoplastic effector
+SGCOL_002482-T1 	-                   	-                   	Y (0.574)           	Non-effector
+SGCOL_002484-T1 	-                   	Y (0.761)           	-                   	Apoplastic effector
+SGCOL_002486-T1 	-                   	-                   	Y (0.701)           	Non-effector
+SGCOL_002493-T1 	-                   	-                   	Y (0.905)           	Non-effector
+SGCOL_002494-T1 	-                   	Y (0.539)           	-                   	Apoplastic effector
+SGCOL_002498-T1 	-                   	-                   	Y (0.578)           	Non-effector
+SGCOL_002507-T1 	-                   	-                   	Y (0.593)           	Non-effector
+SGCOL_002511-T1 	Y (0.69)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002512-T1 	-                   	-                   	Y (0.893)           	Non-effector
+SGCOL_002515-T1 	Y (0.643)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002516-T1 	-                   	Y (0.757)           	-                   	Apoplastic effector
+SGCOL_002526-T1 	-                   	Y (0.763)           	-                   	Apoplastic effector
+SGCOL_002538-T1 	-                   	-                   	Y (0.924)           	Non-effector
+SGCOL_002541-T1 	-                   	-                   	Y (0.951)           	Non-effector
+SGCOL_002545-T1 	-                   	-                   	Y (0.856)           	Non-effector
+SGCOL_002546-T1 	-                   	-                   	Y (0.881)           	Non-effector
+SGCOL_002547-T1 	-                   	-                   	Y (0.922)           	Non-effector
+SGCOL_002559-T1 	-                   	-                   	Y (0.802)           	Non-effector
+SGCOL_002561-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCOL_002567-T1 	-                   	-                   	Y (0.962)           	Non-effector
+SGCOL_002568-T1 	-                   	-                   	Y (0.977)           	Non-effector
+SGCOL_002569-T1 	-                   	-                   	Y (0.788)           	Non-effector
+SGCOL_002571-T1 	-                   	Y (0.74)           	-                   	Apoplastic effector
+SGCOL_002572-T1 	Y (0.599)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002592-T1 	-                   	-                   	Y (0.716)           	Non-effector
+SGCOL_002593-T1 	-                   	-                   	Y (0.961)           	Non-effector
+SGCOL_002612-T1 	-                   	-                   	Y (0.694)           	Non-effector
+SGCOL_002613-T1 	Y (0.785)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002617-T1 	-                   	-                   	Y (0.825)           	Non-effector
+SGCOL_002647-T1 	Y (0.71)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002665-T1 	-                   	-                   	Y (0.808)           	Non-effector
+SGCOL_002668-T1 	-                   	-                   	Y (0.638)           	Non-effector
+SGCOL_002669-T1 	-                   	-                   	Y (0.907)           	Non-effector
+SGCOL_002676-T1 	-                   	-                   	Y (0.536)           	Non-effector
+SGCOL_002677-T1 	-                   	-                   	Y (0.948)           	Non-effector
+SGCOL_002680-T1 	-                   	-                   	Y (0.81)           	Non-effector
+SGCOL_002692-T1 	Y (0.594)           	Y (0.96)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_002732-T1 	-                   	-                   	Y (0.838)           	Non-effector
+SGCOL_002737-T1 	-                   	Y (0.547)           	-                   	Apoplastic effector
+SGCOL_002742-T1 	-                   	Y (0.798)           	-                   	Apoplastic effector
+SGCOL_002764-T1 	-                   	-                   	Y (0.706)           	Non-effector
+SGCOL_002768-T1 	Y (0.514)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002769-T1 	-                   	-                   	Y (0.845)           	Non-effector
+SGCOL_002771-T1 	-                   	Y (0.523)           	-                   	Apoplastic effector
+SGCOL_002779-T1 	Y (0.783)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002811-T1 	-                   	-                   	Y (0.732)           	Non-effector
+SGCOL_002813-T1 	-                   	-                   	Y (0.839)           	Non-effector
+SGCOL_002814-T1 	-                   	-                   	Y (0.986)           	Non-effector
+SGCOL_002816-T1 	Y (0.593)           	Y (0.771)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_002821-T1 	-                   	-                   	Y (0.711)           	Non-effector
+SGCOL_002822-T1 	-                   	-                   	Y (0.818)           	Non-effector
+SGCOL_002828-T1 	-                   	-                   	Y (0.577)           	Non-effector
+SGCOL_002829-T1 	-                   	Y (0.698)           	-                   	Apoplastic effector
+SGCOL_002833-T1 	-                   	-                   	Y (0.75)           	Non-effector
+SGCOL_002845-T1 	Y (0.839)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002850-T1 	-                   	-                   	Y (0.692)           	Non-effector
+SGCOL_002852-T1 	-                   	-                   	Y (0.671)           	Non-effector
+SGCOL_002854-T1 	-                   	-                   	Y (0.961)           	Non-effector
+SGCOL_002857-T1 	Y (0.717)           	-                   	-                   	Cytoplasmic effector
+SGCOL_002863-T1 	-                   	-                   	Y (0.566)           	Non-effector
+SGCOL_002865-T1 	-                   	-                   	Y (0.785)           	Non-effector
+SGCOL_002873-T1 	-                   	Y (0.864)           	-                   	Apoplastic effector
+SGCOL_002874-T1 	-                   	-                   	Y (0.614)           	Non-effector
+SGCOL_002876-T1 	-                   	Y (0.584)           	-                   	Apoplastic effector
+SGCOL_002878-T1 	-                   	Y (0.599)           	-                   	Apoplastic effector
+SGCOL_002908-T1 	-                   	Y (0.568)           	-                   	Apoplastic effector
+SGCOL_002912-T1 	Y (0.531)           	Y (0.807)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_002953-T1 	-                   	-                   	Y (0.831)           	Non-effector
+SGCOL_002954-T1 	-                   	-                   	Y (0.854)           	Non-effector
+SGCOL_002955-T1 	-                   	-                   	Y (0.883)           	Non-effector
+SGCOL_002968-T1 	-                   	-                   	Y (0.898)           	Non-effector
+SGCOL_002970-T1 	-                   	-                   	Y (0.962)           	Non-effector
+SGCOL_002972-T1 	Y (0.534)           	Y (0.831)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_002977-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_002979-T1 	-                   	Y (0.665)           	-                   	Apoplastic effector
+SGCOL_002983-T1 	-                   	-                   	Y (0.598)           	Non-effector
+SGCOL_002997-T1 	-                   	-                   	Y (0.927)           	Non-effector
+SGCOL_003001-T1 	-                   	Y (0.811)           	-                   	Apoplastic effector
+SGCOL_003003-T1 	-                   	-                   	Y (0.638)           	Non-effector
+SGCOL_003006-T1 	Y (0.876)           	-                   	-                   	Cytoplasmic effector
+SGCOL_003008-T1 	-                   	-                   	Y (0.975)           	Non-effector
+SGCOL_003018-T1 	-                   	-                   	Y (0.568)           	Non-effector
+SGCOL_003028-T1 	-                   	-                   	Y (0.687)           	Non-effector
+SGCOL_003029-T1 	-                   	-                   	Y (0.573)           	Non-effector
+SGCOL_003044-T1 	-                   	-                   	Y (0.897)           	Non-effector
+SGCOL_003047-T1 	-                   	-                   	Y (0.982)           	Non-effector
+SGCOL_003058-T1 	-                   	Y (0.653)           	-                   	Apoplastic effector
+SGCOL_003062-T1 	Y (0.777)           	Y (0.89)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_003074-T1 	-                   	Y (0.703)           	-                   	Apoplastic effector
+SGCOL_003079-T1 	-                   	-                   	Y (0.771)           	Non-effector
+SGCOL_003136-T1 	-                   	Y (0.588)           	-                   	Apoplastic effector
+SGCOL_003138-T1 	-                   	-                   	Y (0.524)           	Non-effector
+SGCOL_003139-T1 	-                   	-                   	Y (0.712)           	Non-effector
+SGCOL_003141-T1 	-                   	-                   	Y (0.764)           	Non-effector
+SGCOL_003164-T1 	-                   	-                   	Y (0.86)           	Non-effector
+SGCOL_003167-T1 	-                   	Y (0.514)           	-                   	Apoplastic effector
+SGCOL_003171-T1 	-                   	-                   	Y (0.783)           	Non-effector
+SGCOL_003176-T1 	-                   	-                   	Y (0.804)           	Non-effector
+SGCOL_003177-T1 	-                   	-                   	Y (0.672)           	Non-effector
+SGCOL_003186-T1 	-                   	Y (0.946)           	-                   	Apoplastic effector
+SGCOL_003187-T1 	Y (0.903)           	Y (0.817)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_003191-T1 	-                   	Y (0.528)           	-                   	Apoplastic effector
+SGCOL_003194-T1 	-                   	Y (0.617)           	-                   	Apoplastic effector
+SGCOL_003195-T1 	-                   	-                   	Y (0.873)           	Non-effector
+SGCOL_003196-T1 	-                   	-                   	Y (0.925)           	Non-effector
+SGCOL_003217-T1 	-                   	-                   	Y (0.934)           	Non-effector
+SGCOL_003218-T1 	-                   	Y (0.577)           	-                   	Apoplastic effector
+SGCOL_003232-T1 	-                   	-                   	Y (0.743)           	Non-effector
+SGCOL_003238-T1 	-                   	-                   	Y (0.716)           	Non-effector
+SGCOL_003270-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_003275-T1 	Y (0.543)           	Y (0.799)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_003281-T1 	Y (0.503)           	Y (0.931)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_003321-T1 	-                   	-                   	Y (0.919)           	Non-effector
+SGCOL_003331-T1 	-                   	-                   	Y (0.934)           	Non-effector
+SGCOL_003355-T1 	-                   	-                   	Y (0.769)           	Non-effector
+SGCOL_003408-T1 	-                   	-                   	Y (0.506)           	Non-effector
+SGCOL_003409-T1 	-                   	-                   	Y (0.73)           	Non-effector
+SGCOL_003410-T1 	-                   	-                   	Y (0.961)           	Non-effector
+SGCOL_003450-T1 	-                   	-                   	Y (0.792)           	Non-effector
+SGCOL_003458-T1 	Y (0.802)           	-                   	-                   	Cytoplasmic effector
+SGCOL_003464-T1 	-                   	-                   	Y (0.635)           	Non-effector
+SGCOL_003470-T1 	-                   	-                   	Y (0.603)           	Non-effector
+SGCOL_003472-T1 	Y (0.664)           	-                   	-                   	Cytoplasmic effector
+SGCOL_003473-T1 	-                   	Y (0.503)           	-                   	Apoplastic effector
+SGCOL_003479-T1 	Y (0.595)           	-                   	-                   	Cytoplasmic effector
+SGCOL_003509-T1 	-                   	-                   	Y (0.581)           	Non-effector
+SGCOL_003515-T1 	-                   	-                   	Y (0.744)           	Non-effector
+SGCOL_003526-T1 	-                   	-                   	Y (0.627)           	Non-effector
+SGCOL_003527-T1 	-                   	Y (0.769)           	-                   	Apoplastic effector
+SGCOL_003544-T1 	-                   	Y (0.554)           	-                   	Apoplastic effector
+SGCOL_003597-T1 	-                   	-                   	Y (0.71)           	Non-effector
+SGCOL_003598-T1 	-                   	-                   	Y (0.962)           	Non-effector
+SGCOL_003639-T1 	-                   	-                   	Y (0.71)           	Non-effector
+SGCOL_003642-T1 	-                   	-                   	Y (0.821)           	Non-effector
+SGCOL_003647-T1 	-                   	-                   	Y (0.723)           	Non-effector
+SGCOL_003648-T1 	Y (0.846)           	-                   	-                   	Cytoplasmic effector
+SGCOL_003650-T1 	-                   	Y (0.797)           	-                   	Apoplastic effector
+SGCOL_003655-T1 	-                   	Y (0.503)           	-                   	Apoplastic effector
+SGCOL_003659-T1 	Y (0.684)           	-                   	-                   	Cytoplasmic effector
+SGCOL_003667-T1 	-                   	-                   	Y (0.885)           	Non-effector
+SGCOL_003669-T1 	-                   	-                   	Y (0.593)           	Non-effector
+SGCOL_003675-T1 	-                   	-                   	Y (0.743)           	Non-effector
+SGCOL_003676-T1 	-                   	-                   	Y (0.613)           	Non-effector
+SGCOL_003678-T1 	-                   	-                   	Y (0.96)           	Non-effector
+SGCOL_003684-T1 	Y (0.867)           	-                   	-                   	Cytoplasmic effector
+SGCOL_003689-T1 	-                   	-                   	Y (0.805)           	Non-effector
+SGCOL_003704-T1 	-                   	-                   	Y (0.841)           	Non-effector
+SGCOL_003706-T1 	-                   	-                   	Y (0.791)           	Non-effector
+SGCOL_003711-T1 	-                   	-                   	Y (0.954)           	Non-effector
+SGCOL_003712-T1 	-                   	-                   	Y (0.825)           	Non-effector
+SGCOL_003713-T1 	-                   	Y (0.799)           	-                   	Apoplastic effector
+SGCOL_003726-T1 	-                   	Y (0.607)           	-                   	Apoplastic effector
+SGCOL_003729-T1 	-                   	-                   	Y (0.82)           	Non-effector
+SGCOL_003730-T1 	-                   	-                   	Y (0.739)           	Non-effector
+SGCOL_003735-T1 	-                   	-                   	Y (0.602)           	Non-effector
+SGCOL_003742-T1 	-                   	-                   	Y (0.823)           	Non-effector
+SGCOL_003745-T1 	-                   	-                   	Y (0.935)           	Non-effector
+SGCOL_003746-T1 	-                   	-                   	Y (0.642)           	Non-effector
+SGCOL_003761-T1 	-                   	-                   	Y (0.71)           	Non-effector
+SGCOL_003787-T1 	-                   	Y (0.791)           	-                   	Apoplastic effector
+SGCOL_003790-T1 	Y (0.663)           	-                   	-                   	Cytoplasmic effector
+SGCOL_003795-T1 	-                   	-                   	Y (0.867)           	Non-effector
+SGCOL_003804-T1 	-                   	-                   	Y (0.92)           	Non-effector
+SGCOL_003808-T1 	-                   	-                   	Y (0.855)           	Non-effector
+SGCOL_003815-T1 	Y (0.72)           	-                   	-                   	Cytoplasmic effector
+SGCOL_003823-T1 	-                   	Y (0.676)           	-                   	Apoplastic effector
+SGCOL_003833-T1 	Y (0.581)           	-                   	-                   	Cytoplasmic effector
+SGCOL_003843-T1 	-                   	Y (0.64)           	-                   	Apoplastic effector
+SGCOL_003847-T1 	-                   	Y (0.677)           	-                   	Apoplastic effector
+SGCOL_003848-T1 	-                   	Y (0.744)           	-                   	Apoplastic effector
+SGCOL_003869-T1 	-                   	-                   	Y (0.745)           	Non-effector
+SGCOL_003882-T1 	-                   	-                   	Y (0.921)           	Non-effector
+SGCOL_003883-T1 	-                   	-                   	Y (0.888)           	Non-effector
+SGCOL_003891-T1 	-                   	-                   	Y (0.691)           	Non-effector
+SGCOL_003893-T1 	-                   	-                   	Y (0.525)           	Non-effector
+SGCOL_003926-T1 	-                   	-                   	Y (0.658)           	Non-effector
+SGCOL_003927-T1 	-                   	-                   	Y (0.76)           	Non-effector
+SGCOL_003931-T1 	-                   	Y (0.718)           	-                   	Apoplastic effector
+SGCOL_003945-T1 	-                   	-                   	Y (0.706)           	Non-effector
+SGCOL_003958-T1 	-                   	-                   	Y (0.979)           	Non-effector
+SGCOL_003972-T1 	-                   	-                   	Y (0.907)           	Non-effector
+SGCOL_003975-T1 	-                   	-                   	Y (0.818)           	Non-effector
+SGCOL_003980-T1 	-                   	-                   	Y (0.66)           	Non-effector
+SGCOL_003996-T1 	-                   	-                   	Y (0.892)           	Non-effector
+SGCOL_003997-T1 	-                   	Y (0.614)           	-                   	Apoplastic effector
+SGCOL_003999-T1 	-                   	-                   	Y (0.94)           	Non-effector
+SGCOL_004005-T1 	-                   	-                   	Y (0.817)           	Non-effector
+SGCOL_004023-T1 	-                   	-                   	Y (0.524)           	Non-effector
+SGCOL_004031-T1 	-                   	-                   	Y (0.597)           	Non-effector
+SGCOL_004071-T1 	-                   	-                   	Y (0.888)           	Non-effector
+SGCOL_004098-T1 	-                   	-                   	Y (0.566)           	Non-effector
+SGCOL_004106-T1 	Y (0.722)           	Y (0.929)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_004107-T1 	-                   	-                   	Y (0.884)           	Non-effector
+SGCOL_004115-T1 	-                   	Y (0.688)           	-                   	Apoplastic effector
+SGCOL_004116-T1 	-                   	-                   	Y (0.87)           	Non-effector
+SGCOL_004117-T1 	-                   	Y (0.739)           	-                   	Apoplastic effector
+SGCOL_004156-T1 	-                   	-                   	Y (0.604)           	Non-effector
+SGCOL_004165-T1 	-                   	Y (0.714)           	-                   	Apoplastic effector
+SGCOL_004173-T1 	-                   	-                   	Y (0.714)           	Non-effector
+SGCOL_004188-T1 	-                   	-                   	Y (0.856)           	Non-effector
+SGCOL_004195-T1 	-                   	-                   	Y (0.775)           	Non-effector
+SGCOL_004199-T1 	-                   	-                   	Y (0.626)           	Non-effector
+SGCOL_004207-T1 	-                   	-                   	Y (0.733)           	Non-effector
+SGCOL_004233-T1 	-                   	Y (0.674)           	-                   	Apoplastic effector
+SGCOL_004242-T1 	-                   	-                   	Y (0.7)           	Non-effector
+SGCOL_004245-T1 	-                   	-                   	Y (0.562)           	Non-effector
+SGCOL_004246-T1 	-                   	-                   	Y (0.741)           	Non-effector
+SGCOL_004247-T1 	-                   	-                   	Y (0.924)           	Non-effector
+SGCOL_004270-T1 	-                   	-                   	Y (0.727)           	Non-effector
+SGCOL_004284-T1 	-                   	-                   	Y (0.875)           	Non-effector
+SGCOL_004285-T1 	-                   	-                   	Y (0.77)           	Non-effector
+SGCOL_004303-T1 	-                   	-                   	Y (0.96)           	Non-effector
+SGCOL_004307-T1 	-                   	Y (0.582)           	-                   	Apoplastic effector
+SGCOL_004308-T1 	-                   	-                   	Y (0.8)           	Non-effector
+SGCOL_004314-T1 	-                   	-                   	Y (0.888)           	Non-effector
+SGCOL_004328-T1 	-                   	-                   	Y (0.621)           	Non-effector
+SGCOL_004331-T1 	-                   	-                   	Y (0.984)           	Non-effector
+SGCOL_004333-T1 	-                   	-                   	Y (0.796)           	Non-effector
+SGCOL_004335-T1 	-                   	Y (0.768)           	-                   	Apoplastic effector
+SGCOL_004337-T1 	-                   	Y (0.989)           	-                   	Apoplastic effector
+SGCOL_004350-T1 	-                   	-                   	Y (0.762)           	Non-effector
+SGCOL_004351-T1 	-                   	-                   	Y (0.895)           	Non-effector
+SGCOL_004353-T1 	-                   	Y (0.527)           	-                   	Apoplastic effector
+SGCOL_004354-T1 	-                   	-                   	Y (0.512)           	Non-effector
+SGCOL_004359-T1 	-                   	-                   	Y (0.865)           	Non-effector
+SGCOL_004360-T1 	-                   	Y (0.539)           	-                   	Apoplastic effector
+SGCOL_004361-T1 	-                   	-                   	Y (0.927)           	Non-effector
+SGCOL_004366-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_004367-T1 	-                   	-                   	Y (0.944)           	Non-effector
+SGCOL_004370-T1 	-                   	-                   	Y (0.803)           	Non-effector
+SGCOL_004371-T1 	Y (0.549)           	-                   	-                   	Cytoplasmic effector
+SGCOL_004381-T1 	-                   	-                   	Y (0.898)           	Non-effector
+SGCOL_004389-T1 	-                   	Y (0.508)           	-                   	Apoplastic effector
+SGCOL_004396-T1 	-                   	-                   	Y (0.529)           	Non-effector
+SGCOL_004397-T1 	-                   	-                   	Y (0.59)           	Non-effector
+SGCOL_004401-T1 	-                   	-                   	Y (0.639)           	Non-effector
+SGCOL_004421-T1 	Y (0.554)           	Y (0.657)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_004437-T1 	-                   	Y (0.865)           	-                   	Apoplastic effector
+SGCOL_004448-T1 	-                   	Y (0.726)           	-                   	Apoplastic effector
+SGCOL_004449-T1 	-                   	Y (0.841)           	-                   	Apoplastic effector
+SGCOL_004452-T1 	-                   	Y (0.718)           	-                   	Apoplastic effector
+SGCOL_004454-T1 	Y (0.714)           	-                   	-                   	Cytoplasmic effector
+SGCOL_004455-T1 	-                   	-                   	Y (0.967)           	Non-effector
+SGCOL_004457-T1 	-                   	-                   	Y (0.669)           	Non-effector
+SGCOL_004460-T1 	-                   	-                   	Y (0.774)           	Non-effector
+SGCOL_004462-T1 	-                   	-                   	Y (0.934)           	Non-effector
+SGCOL_004466-T1 	-                   	-                   	Y (0.934)           	Non-effector
+SGCOL_004470-T1 	-                   	-                   	Y (0.929)           	Non-effector
+SGCOL_004499-T1 	-                   	Y (0.593)           	-                   	Apoplastic effector
+SGCOL_004500-T1 	Y (0.651)           	Y (0.701)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_004505-T1 	-                   	-                   	Y (0.866)           	Non-effector
+SGCOL_004506-T1 	-                   	-                   	Y (0.707)           	Non-effector
+SGCOL_004507-T1 	-                   	-                   	Y (0.654)           	Non-effector
+SGCOL_004508-T1 	Y (0.865)           	-                   	-                   	Cytoplasmic effector
+SGCOL_004509-T1 	-                   	-                   	Y (0.93)           	Non-effector
+SGCOL_004517-T1 	-                   	-                   	Y (0.674)           	Non-effector
+SGCOL_004520-T1 	Y (0.62)           	-                   	-                   	Cytoplasmic effector
+SGCOL_004526-T1 	-                   	-                   	Y (0.505)           	Non-effector
+SGCOL_004553-T1 	-                   	-                   	Y (0.882)           	Non-effector
+SGCOL_004572-T1 	Y (0.784)           	-                   	-                   	Cytoplasmic effector
+SGCOL_004580-T1 	-                   	-                   	Y (0.747)           	Non-effector
+SGCOL_004598-T1 	-                   	-                   	Y (0.679)           	Non-effector
+SGCOL_004609-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_004610-T1 	-                   	-                   	Y (0.571)           	Non-effector
+SGCOL_004619-T1 	-                   	-                   	Y (0.853)           	Non-effector
+SGCOL_004626-T1 	-                   	Y (0.524)           	-                   	Apoplastic effector
+SGCOL_004653-T1 	Y (0.604)           	-                   	-                   	Cytoplasmic effector
+SGCOL_004674-T1 	Y (0.892)           	-                   	-                   	Cytoplasmic effector
+SGCOL_004675-T1 	-                   	Y (0.657)           	-                   	Apoplastic effector
+SGCOL_004683-T1 	-                   	-                   	Y (0.511)           	Non-effector
+SGCOL_004687-T1 	-                   	-                   	Y (0.728)           	Non-effector
+SGCOL_004702-T1 	-                   	-                   	Y (0.619)           	Non-effector
+SGCOL_004772-T1 	-                   	-                   	Y (0.894)           	Non-effector
+SGCOL_004780-T1 	-                   	-                   	Y (0.604)           	Non-effector
+SGCOL_004787-T1 	-                   	-                   	Y (0.673)           	Non-effector
+SGCOL_004793-T1 	-                   	-                   	Y (0.858)           	Non-effector
+SGCOL_004794-T1 	-                   	Y (0.877)           	-                   	Apoplastic effector
+SGCOL_004797-T1 	-                   	-                   	Y (0.893)           	Non-effector
+SGCOL_004800-T1 	-                   	Y (0.569)           	-                   	Apoplastic effector
+SGCOL_004803-T1 	-                   	Y (0.687)           	-                   	Apoplastic effector
+SGCOL_004805-T1 	-                   	-                   	Y (0.589)           	Non-effector
+SGCOL_004806-T1 	-                   	-                   	Y (0.87)           	Non-effector
+SGCOL_004807-T1 	-                   	-                   	Y (0.877)           	Non-effector
+SGCOL_004808-T1 	-                   	-                   	Y (0.813)           	Non-effector
+SGCOL_004810-T1 	-                   	Y (0.76)           	-                   	Apoplastic effector
+SGCOL_004815-T1 	-                   	-                   	Y (0.605)           	Non-effector
+SGCOL_004828-T1 	-                   	Y (0.525)           	-                   	Apoplastic effector
+SGCOL_004840-T1 	-                   	Y (0.785)           	-                   	Apoplastic effector
+SGCOL_004844-T1 	-                   	-                   	Y (0.755)           	Non-effector
+SGCOL_004845-T1 	-                   	-                   	Y (0.918)           	Non-effector
+SGCOL_004856-T1 	-                   	Y (0.792)           	-                   	Apoplastic effector
+SGCOL_004863-T1 	Y (0.931)           	-                   	-                   	Cytoplasmic effector
+SGCOL_004865-T1 	-                   	-                   	Y (0.575)           	Non-effector
+SGCOL_004866-T1 	-                   	-                   	Y (0.921)           	Non-effector
+SGCOL_004871-T1 	-                   	Y (0.579)           	-                   	Apoplastic effector
+SGCOL_004879-T1 	-                   	-                   	Y (0.918)           	Non-effector
+SGCOL_004881-T1 	-                   	-                   	Y (0.765)           	Non-effector
+SGCOL_004882-T1 	Y (0.643)           	-                   	-                   	Cytoplasmic effector
+SGCOL_004884-T1 	-                   	-                   	Y (0.701)           	Non-effector
+SGCOL_004887-T1 	-                   	-                   	Y (0.518)           	Non-effector
+SGCOL_004888-T1 	-                   	-                   	Y (0.516)           	Non-effector
+SGCOL_004892-T1 	-                   	-                   	Y (0.855)           	Non-effector
+SGCOL_004897-T1 	-                   	-                   	Y (0.556)           	Non-effector
+SGCOL_004898-T1 	-                   	-                   	Y (0.867)           	Non-effector
+SGCOL_004900-T1 	-                   	Y (0.731)           	-                   	Apoplastic effector
+SGCOL_004901-T1 	Y (0.902)           	Y (0.78)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_004902-T1 	-                   	Y (0.685)           	-                   	Apoplastic effector
+SGCOL_004903-T1 	-                   	-                   	Y (0.746)           	Non-effector
+SGCOL_004905-T1 	-                   	-                   	Y (0.871)           	Non-effector
+SGCOL_004908-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCOL_004924-T1 	-                   	-                   	Y (0.905)           	Non-effector
+SGCOL_004925-T1 	-                   	Y (0.705)           	-                   	Apoplastic effector
+SGCOL_004926-T1 	-                   	Y (0.72)           	-                   	Apoplastic effector
+SGCOL_004970-T1 	-                   	-                   	Y (0.565)           	Non-effector
+SGCOL_004998-T1 	Y (0.551)           	-                   	-                   	Cytoplasmic effector
+SGCOL_005026-T1 	-                   	Y (0.691)           	-                   	Apoplastic effector
+SGCOL_005039-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_005040-T1 	Y (0.553)           	-                   	-                   	Cytoplasmic effector
+SGCOL_005041-T1 	-                   	-                   	Y (0.737)           	Non-effector
+SGCOL_005042-T1 	Y (0.587)           	-                   	-                   	Cytoplasmic effector
+SGCOL_005045-T1 	-                   	Y (0.754)           	-                   	Apoplastic effector
+SGCOL_005046-T1 	-                   	-                   	Y (0.955)           	Non-effector
+SGCOL_005064-T1 	-                   	-                   	Y (0.85)           	Non-effector
+SGCOL_005071-T1 	-                   	-                   	Y (0.921)           	Non-effector
+SGCOL_005073-T1 	-                   	-                   	Y (0.588)           	Non-effector
+SGCOL_005075-T1 	-                   	Y (0.677)           	-                   	Apoplastic effector
+SGCOL_005077-T1 	-                   	Y (0.753)           	-                   	Apoplastic effector
+SGCOL_005078-T1 	-                   	-                   	Y (0.819)           	Non-effector
+SGCOL_005091-T1 	-                   	-                   	Y (0.837)           	Non-effector
+SGCOL_005092-T1 	-                   	-                   	Y (0.927)           	Non-effector
+SGCOL_005103-T1 	-                   	Y (0.632)           	-                   	Apoplastic effector
+SGCOL_005105-T1 	-                   	-                   	Y (0.867)           	Non-effector
+SGCOL_005147-T1 	Y (0.663)           	-                   	-                   	Cytoplasmic effector
+SGCOL_005166-T1 	-                   	Y (0.603)           	-                   	Apoplastic effector
+SGCOL_005175-T1 	-                   	Y (0.586)           	-                   	Apoplastic effector
+SGCOL_005193-T1 	-                   	-                   	Y (0.901)           	Non-effector
+SGCOL_005194-T1 	-                   	-                   	Y (0.967)           	Non-effector
+SGCOL_005202-T1 	-                   	-                   	Y (0.763)           	Non-effector
+SGCOL_005204-T1 	-                   	-                   	Y (0.895)           	Non-effector
+SGCOL_005210-T1 	-                   	Y (0.51)           	-                   	Apoplastic effector
+SGCOL_005212-T1 	-                   	-                   	Y (0.854)           	Non-effector
+SGCOL_005261-T1 	-                   	-                   	Y (0.588)           	Non-effector
+SGCOL_005265-T1 	-                   	-                   	Y (0.962)           	Non-effector
+SGCOL_005293-T1 	-                   	-                   	Y (0.919)           	Non-effector
+SGCOL_005313-T1 	Y (0.668)           	-                   	-                   	Cytoplasmic effector
+SGCOL_005314-T1 	Y (0.767)           	-                   	-                   	Cytoplasmic effector
+SGCOL_005315-T1 	-                   	-                   	Y (0.597)           	Non-effector
+SGCOL_005341-T1 	Y (0.605)           	-                   	-                   	Cytoplasmic effector
+SGCOL_005362-T1 	-                   	-                   	Y (0.925)           	Non-effector
+SGCOL_005378-T1 	-                   	-                   	Y (0.907)           	Non-effector
+SGCOL_005394-T1 	-                   	-                   	Y (0.619)           	Non-effector
+SGCOL_005397-T1 	-                   	-                   	Y (0.831)           	Non-effector
+SGCOL_005419-T1 	-                   	-                   	Y (0.933)           	Non-effector
+SGCOL_005422-T1 	Y (0.926)           	-                   	-                   	Cytoplasmic effector
+SGCOL_005432-T1 	-                   	-                   	Y (0.88)           	Non-effector
+SGCOL_005441-T1 	Y (0.516)           	-                   	-                   	Cytoplasmic effector
+SGCOL_005442-T1 	-                   	Y (0.793)           	-                   	Apoplastic effector
+SGCOL_005460-T1 	-                   	-                   	Y (0.576)           	Non-effector
+SGCOL_005465-T1 	-                   	-                   	Y (0.793)           	Non-effector
+SGCOL_005469-T1 	-                   	Y (0.707)           	-                   	Apoplastic effector
+SGCOL_005476-T1 	-                   	-                   	Y (0.768)           	Non-effector
+SGCOL_005477-T1 	-                   	-                   	Y (0.571)           	Non-effector
+SGCOL_005480-T1 	-                   	-                   	Y (0.853)           	Non-effector
+SGCOL_005483-T1 	-                   	-                   	Y (0.913)           	Non-effector
+SGCOL_005484-T1 	-                   	-                   	Y (0.879)           	Non-effector
+SGCOL_005489-T1 	-                   	Y (0.56)           	-                   	Apoplastic effector
+SGCOL_005503-T1 	-                   	-                   	Y (0.924)           	Non-effector
+SGCOL_005504-T1 	Y (0.718)           	Y (0.703)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_005508-T1 	-                   	-                   	Y (0.77)           	Non-effector
+SGCOL_005510-T1 	-                   	-                   	Y (0.791)           	Non-effector
+SGCOL_005521-T1 	-                   	-                   	Y (0.714)           	Non-effector
+SGCOL_005539-T1 	-                   	-                   	Y (0.683)           	Non-effector
+SGCOL_005544-T1 	Y (0.933)           	Y (0.904)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_005545-T1 	-                   	-                   	Y (0.982)           	Non-effector
+SGCOL_005567-T1 	-                   	-                   	Y (0.526)           	Non-effector
+SGCOL_005624-T1 	-                   	-                   	Y (0.84)           	Non-effector
+SGCOL_005647-T1 	-                   	-                   	Y (0.927)           	Non-effector
+SGCOL_005658-T1 	-                   	-                   	Y (0.987)           	Non-effector
+SGCOL_005660-T1 	-                   	-                   	Y (0.956)           	Non-effector
+SGCOL_005671-T1 	-                   	-                   	Y (0.586)           	Non-effector
+SGCOL_005673-T1 	-                   	-                   	Y (0.698)           	Non-effector
+SGCOL_005683-T1 	-                   	-                   	Y (0.566)           	Non-effector
+SGCOL_005691-T1 	-                   	-                   	Y (0.929)           	Non-effector
+SGCOL_005702-T1 	-                   	Y (0.76)           	-                   	Apoplastic effector
+SGCOL_005705-T1 	-                   	-                   	Y (0.913)           	Non-effector
+SGCOL_005708-T1 	-                   	-                   	Y (0.694)           	Non-effector
+SGCOL_005709-T1 	-                   	Y (0.663)           	-                   	Apoplastic effector
+SGCOL_005718-T1 	-                   	-                   	Y (0.533)           	Non-effector
+SGCOL_005721-T1 	-                   	-                   	Y (0.852)           	Non-effector
+SGCOL_005724-T1 	Y (0.553)           	-                   	-                   	Cytoplasmic effector
+SGCOL_005725-T1 	-                   	-                   	Y (0.848)           	Non-effector
+SGCOL_005726-T1 	Y (0.739)           	Y (0.669)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_005734-T1 	-                   	-                   	Y (0.603)           	Non-effector
+SGCOL_005766-T1 	-                   	-                   	Y (0.761)           	Non-effector
+SGCOL_005798-T1 	-                   	-                   	Y (0.838)           	Non-effector
+SGCOL_005811-T1 	-                   	-                   	Y (0.926)           	Non-effector
+SGCOL_005820-T1 	-                   	-                   	Y (0.821)           	Non-effector
+SGCOL_005834-T1 	-                   	-                   	Y (0.95)           	Non-effector
+SGCOL_005849-T1 	Y (0.577)           	-                   	-                   	Cytoplasmic effector
+SGCOL_005852-T1 	-                   	Y (0.883)           	-                   	Apoplastic effector
+SGCOL_005853-T1 	-                   	Y (0.669)           	-                   	Apoplastic effector
+SGCOL_005855-T1 	-                   	-                   	Y (0.893)           	Non-effector
+SGCOL_005893-T1 	-                   	Y (0.501)           	-                   	Apoplastic effector
+SGCOL_005905-T1 	-                   	Y (0.571)           	-                   	Apoplastic effector
+SGCOL_005921-T1 	-                   	-                   	Y (0.851)           	Non-effector
+SGCOL_005922-T1 	-                   	-                   	Y (0.668)           	Non-effector
+SGCOL_005925-T1 	-                   	-                   	Y (0.518)           	Non-effector
+SGCOL_005946-T1 	-                   	Y (0.799)           	-                   	Apoplastic effector
+SGCOL_005948-T1 	-                   	-                   	Y (0.884)           	Non-effector
+SGCOL_005957-T1 	-                   	-                   	Y (0.56)           	Non-effector
+SGCOL_005958-T1 	-                   	-                   	Y (0.629)           	Non-effector
+SGCOL_005962-T1 	-                   	-                   	Y (0.565)           	Non-effector
+SGCOL_005963-T1 	-                   	Y (0.776)           	-                   	Apoplastic effector
+SGCOL_005969-T1 	-                   	Y (0.76)           	-                   	Apoplastic effector
+SGCOL_005970-T1 	-                   	-                   	Y (0.742)           	Non-effector
+SGCOL_005985-T1 	-                   	-                   	Y (0.526)           	Non-effector
+SGCOL_005987-T1 	-                   	Y (0.547)           	-                   	Apoplastic effector
+SGCOL_005988-T1 	-                   	Y (0.964)           	-                   	Apoplastic effector
+SGCOL_005995-T1 	-                   	-                   	Y (0.635)           	Non-effector
+SGCOL_006010-T1 	-                   	-                   	Y (0.768)           	Non-effector
+SGCOL_006022-T1 	-                   	-                   	Y (0.601)           	Non-effector
+SGCOL_006023-T1 	-                   	-                   	Y (0.566)           	Non-effector
+SGCOL_006041-T1 	Y (0.514)           	Y (0.796)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_006061-T1 	-                   	-                   	Y (0.756)           	Non-effector
+SGCOL_006064-T1 	-                   	-                   	Y (0.663)           	Non-effector
+SGCOL_006093-T1 	-                   	-                   	Y (0.986)           	Non-effector
+SGCOL_006105-T1 	-                   	-                   	Y (0.864)           	Non-effector
+SGCOL_006108-T1 	-                   	-                   	Y (0.892)           	Non-effector
+SGCOL_006141-T1 	-                   	Y (0.568)           	-                   	Apoplastic effector
+SGCOL_006154-T1 	-                   	-                   	Y (0.505)           	Non-effector
+SGCOL_006162-T1 	-                   	-                   	Y (0.535)           	Non-effector
+SGCOL_006169-T1 	-                   	-                   	Y (0.795)           	Non-effector
+SGCOL_006175-T1 	-                   	-                   	Y (0.873)           	Non-effector
+SGCOL_006176-T1 	-                   	-                   	Y (0.76)           	Non-effector
+SGCOL_006181-T1 	-                   	-                   	Y (0.822)           	Non-effector
+SGCOL_006185-T1 	-                   	Y (0.643)           	-                   	Apoplastic effector
+SGCOL_006189-T1 	-                   	-                   	Y (0.608)           	Non-effector
+SGCOL_006190-T1 	-                   	-                   	Y (0.961)           	Non-effector
+SGCOL_006199-T1 	-                   	-                   	Y (0.625)           	Non-effector
+SGCOL_006206-T1 	-                   	Y (0.921)           	-                   	Apoplastic effector
+SGCOL_006207-T1 	-                   	Y (0.876)           	-                   	Apoplastic effector
+SGCOL_006213-T1 	-                   	-                   	Y (0.752)           	Non-effector
+SGCOL_006217-T1 	-                   	-                   	Y (0.982)           	Non-effector
+SGCOL_006219-T1 	-                   	-                   	Y (0.605)           	Non-effector
+SGCOL_006220-T1 	-                   	-                   	Y (0.926)           	Non-effector
+SGCOL_006221-T1 	-                   	-                   	Y (0.723)           	Non-effector
+SGCOL_006230-T1 	-                   	-                   	Y (0.578)           	Non-effector
+SGCOL_006232-T1 	-                   	-                   	Y (0.878)           	Non-effector
+SGCOL_006239-T1 	-                   	-                   	Y (0.723)           	Non-effector
+SGCOL_006242-T1 	-                   	-                   	Y (0.934)           	Non-effector
+SGCOL_006247-T1 	-                   	-                   	Y (0.962)           	Non-effector
+SGCOL_006249-T1 	-                   	Y (0.566)           	-                   	Apoplastic effector
+SGCOL_006257-T1 	-                   	-                   	Y (0.542)           	Non-effector
+SGCOL_006259-T1 	-                   	Y (0.602)           	-                   	Apoplastic effector
+SGCOL_006260-T1 	-                   	-                   	Y (0.506)           	Non-effector
+SGCOL_006262-T1 	-                   	-                   	Y (0.687)           	Non-effector
+SGCOL_006265-T1 	-                   	-                   	Y (0.563)           	Non-effector
+SGCOL_006267-T1 	-                   	-                   	Y (0.643)           	Non-effector
+SGCOL_006283-T1 	-                   	-                   	Y (0.836)           	Non-effector
+SGCOL_006286-T1 	Y (0.535)           	Y (0.769)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_006288-T1 	-                   	-                   	Y (0.831)           	Non-effector
+SGCOL_006289-T1 	-                   	-                   	Y (0.922)           	Non-effector
+SGCOL_006292-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_006293-T1 	Y (0.989)           	Y (0.649)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_006294-T1 	-                   	-                   	Y (0.551)           	Non-effector
+SGCOL_006296-T1 	-                   	-                   	Y (0.974)           	Non-effector
+SGCOL_006298-T1 	Y (0.532)           	Y (0.724)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_006307-T1 	Y (0.732)           	Y (0.93)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_006310-T1 	-                   	-                   	Y (0.921)           	Non-effector
+SGCOL_006320-T1 	-                   	-                   	Y (0.855)           	Non-effector
+SGCOL_006323-T1 	-                   	-                   	Y (0.628)           	Non-effector
+SGCOL_006326-T1 	-                   	-                   	Y (0.545)           	Non-effector
+SGCOL_006327-T1 	Y (0.642)           	-                   	-                   	Cytoplasmic effector
+SGCOL_006338-T1 	Y (0.818)           	-                   	-                   	Cytoplasmic effector
+SGCOL_006344-T1 	-                   	-                   	Y (0.899)           	Non-effector
+SGCOL_006349-T1 	-                   	-                   	Y (0.887)           	Non-effector
+SGCOL_006354-T1 	-                   	-                   	Y (0.503)           	Non-effector
+SGCOL_006369-T1 	-                   	-                   	Y (0.624)           	Non-effector
+SGCOL_006376-T1 	Y (0.821)           	-                   	-                   	Cytoplasmic effector
+SGCOL_006378-T1 	Y (0.811)           	-                   	-                   	Cytoplasmic effector
+SGCOL_006398-T1 	-                   	-                   	Y (0.509)           	Non-effector
+SGCOL_006404-T1 	-                   	Y (0.591)           	-                   	Apoplastic effector
+SGCOL_006412-T1 	-                   	-                   	Y (0.645)           	Non-effector
+SGCOL_006420-T1 	-                   	-                   	Y (0.895)           	Non-effector
+SGCOL_006422-T1 	-                   	-                   	Y (0.948)           	Non-effector
+SGCOL_006450-T1 	-                   	Y (0.922)           	-                   	Apoplastic effector
+SGCOL_006476-T1 	-                   	-                   	Y (0.816)           	Non-effector
+SGCOL_006477-T1 	-                   	-                   	Y (0.551)           	Non-effector
+SGCOL_006503-T1 	Y (0.711)           	-                   	-                   	Cytoplasmic effector
+SGCOL_006505-T1 	-                   	Y (0.632)           	-                   	Apoplastic effector
+SGCOL_006542-T1 	-                   	-                   	Y (0.816)           	Non-effector
+SGCOL_006564-T1 	Y (0.903)           	-                   	-                   	Cytoplasmic effector
+SGCOL_006565-T1 	Y (0.799)           	Y (0.718)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_006585-T1 	-                   	-                   	Y (0.911)           	Non-effector
+SGCOL_006593-T1 	-                   	Y (0.649)           	-                   	Apoplastic effector
+SGCOL_006596-T1 	-                   	-                   	Y (0.854)           	Non-effector
+SGCOL_006611-T1 	-                   	-                   	Y (0.868)           	Non-effector
+SGCOL_006643-T1 	Y (0.736)           	-                   	-                   	Cytoplasmic effector
+SGCOL_006650-T1 	-                   	-                   	Y (0.776)           	Non-effector
+SGCOL_006674-T1 	Y (0.891)           	-                   	-                   	Cytoplasmic effector
+SGCOL_006737-T1 	-                   	-                   	Y (0.899)           	Non-effector
+SGCOL_006759-T1 	-                   	-                   	Y (0.987)           	Non-effector
+SGCOL_006761-T1 	-                   	-                   	Y (0.575)           	Non-effector
+SGCOL_006784-T1 	-                   	-                   	Y (0.961)           	Non-effector
+SGCOL_006786-T1 	-                   	-                   	Y (0.973)           	Non-effector
+SGCOL_006800-T1 	-                   	-                   	Y (0.658)           	Non-effector
+SGCOL_006807-T1 	-                   	Y (0.61)           	-                   	Apoplastic effector
+SGCOL_006826-T1 	-                   	-                   	Y (0.519)           	Non-effector
+SGCOL_006851-T1 	Y (0.577)           	-                   	-                   	Cytoplasmic effector
+SGCOL_006867-T1 	-                   	Y (0.519)           	-                   	Apoplastic effector
+SGCOL_006868-T1 	-                   	-                   	Y (0.729)           	Non-effector
+SGCOL_006888-T1 	-                   	-                   	Y (0.967)           	Non-effector
+SGCOL_006894-T1 	-                   	-                   	Y (0.756)           	Non-effector
+SGCOL_006901-T1 	-                   	-                   	Y (0.9)           	Non-effector
+SGCOL_006906-T1 	-                   	-                   	Y (0.65)           	Non-effector
+SGCOL_006909-T1 	-                   	-                   	Y (0.962)           	Non-effector
+SGCOL_006917-T1 	-                   	-                   	Y (0.791)           	Non-effector
+SGCOL_006919-T1 	-                   	Y (0.609)           	-                   	Apoplastic effector
+SGCOL_006928-T1 	-                   	-                   	Y (0.776)           	Non-effector
+SGCOL_006960-T1 	-                   	Y (0.635)           	-                   	Apoplastic effector
+SGCOL_006963-T1 	-                   	-                   	Y (0.968)           	Non-effector
+SGCOL_007009-T1 	-                   	-                   	Y (0.529)           	Non-effector
+SGCOL_007017-T1 	-                   	-                   	Y (0.815)           	Non-effector
+SGCOL_007021-T1 	-                   	Y (0.783)           	-                   	Apoplastic effector
+SGCOL_007022-T1 	-                   	Y (0.845)           	-                   	Apoplastic effector
+SGCOL_007057-T1 	Y (0.725)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007064-T1 	-                   	-                   	Y (0.716)           	Non-effector
+SGCOL_007067-T1 	Y (0.643)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007096-T1 	-                   	-                   	Y (0.563)           	Non-effector
+SGCOL_007108-T1 	-                   	Y (0.801)           	-                   	Apoplastic effector
+SGCOL_007137-T1 	-                   	-                   	Y (0.559)           	Non-effector
+SGCOL_007140-T1 	-                   	-                   	Y (0.788)           	Non-effector
+SGCOL_007144-T1 	-                   	-                   	Y (0.652)           	Non-effector
+SGCOL_007146-T1 	-                   	Y (0.685)           	-                   	Apoplastic effector
+SGCOL_007147-T1 	Y (0.503)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007167-T1 	-                   	-                   	Y (0.898)           	Non-effector
+SGCOL_007170-T1 	-                   	Y (0.924)           	-                   	Apoplastic effector
+SGCOL_007171-T1 	-                   	-                   	Y (0.576)           	Non-effector
+SGCOL_007173-T1 	-                   	-                   	Y (0.893)           	Non-effector
+SGCOL_007178-T1 	-                   	-                   	Y (0.815)           	Non-effector
+SGCOL_007180-T1 	-                   	-                   	Y (0.941)           	Non-effector
+SGCOL_007182-T1 	-                   	-                   	Y (0.905)           	Non-effector
+SGCOL_007195-T1 	-                   	-                   	Y (0.629)           	Non-effector
+SGCOL_007197-T1 	-                   	-                   	Y (0.576)           	Non-effector
+SGCOL_007206-T1 	-                   	-                   	Y (0.578)           	Non-effector
+SGCOL_007218-T1 	-                   	-                   	Y (0.597)           	Non-effector
+SGCOL_007221-T1 	-                   	-                   	Y (0.897)           	Non-effector
+SGCOL_007230-T1 	-                   	-                   	Y (0.574)           	Non-effector
+SGCOL_007234-T1 	-                   	-                   	Y (0.698)           	Non-effector
+SGCOL_007252-T1 	-                   	Y (0.736)           	-                   	Apoplastic effector
+SGCOL_007270-T1 	-                   	-                   	Y (0.856)           	Non-effector
+SGCOL_007275-T1 	Y (0.635)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007296-T1 	Y (0.763)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007312-T1 	-                   	-                   	Y (0.884)           	Non-effector
+SGCOL_007332-T1 	-                   	Y (0.558)           	-                   	Apoplastic effector
+SGCOL_007354-T1 	-                   	-                   	Y (0.693)           	Non-effector
+SGCOL_007357-T1 	-                   	-                   	Y (0.946)           	Non-effector
+SGCOL_007361-T1 	-                   	-                   	Y (0.596)           	Non-effector
+SGCOL_007369-T1 	-                   	-                   	Y (0.883)           	Non-effector
+SGCOL_007384-T1 	-                   	-                   	Y (0.709)           	Non-effector
+SGCOL_007385-T1 	-                   	-                   	Y (0.881)           	Non-effector
+SGCOL_007389-T1 	-                   	-                   	Y (0.822)           	Non-effector
+SGCOL_007408-T1 	-                   	-                   	Y (0.916)           	Non-effector
+SGCOL_007419-T1 	-                   	-                   	Y (0.729)           	Non-effector
+SGCOL_007420-T1 	Y (0.839)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007427-T1 	-                   	-                   	Y (0.925)           	Non-effector
+SGCOL_007437-T1 	-                   	-                   	Y (0.816)           	Non-effector
+SGCOL_007445-T1 	-                   	-                   	Y (0.822)           	Non-effector
+SGCOL_007448-T1 	-                   	-                   	Y (0.67)           	Non-effector
+SGCOL_007456-T1 	Y (0.543)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007466-T1 	-                   	-                   	Y (0.889)           	Non-effector
+SGCOL_007474-T1 	-                   	-                   	Y (0.801)           	Non-effector
+SGCOL_007488-T1 	-                   	-                   	Y (0.733)           	Non-effector
+SGCOL_007496-T1 	-                   	Y (0.557)           	-                   	Apoplastic effector
+SGCOL_007501-T1 	-                   	Y (0.588)           	-                   	Apoplastic effector
+SGCOL_007513-T1 	Y (0.563)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007515-T1 	-                   	Y (0.762)           	-                   	Apoplastic effector
+SGCOL_007535-T1 	-                   	-                   	Y (0.721)           	Non-effector
+SGCOL_007544-T1 	-                   	Y (0.523)           	-                   	Apoplastic effector
+SGCOL_007549-T1 	Y (0.761)           	Y (0.959)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_007552-T1 	-                   	-                   	Y (0.613)           	Non-effector
+SGCOL_007555-T1 	-                   	Y (0.617)           	-                   	Apoplastic effector
+SGCOL_007562-T1 	-                   	-                   	Y (0.643)           	Non-effector
+SGCOL_007565-T1 	Y (0.586)           	Y (0.763)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_007575-T1 	Y (0.685)           	Y (0.526)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_007586-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_007589-T1 	-                   	-                   	Y (0.743)           	Non-effector
+SGCOL_007612-T1 	-                   	Y (0.509)           	-                   	Apoplastic effector
+SGCOL_007613-T1 	-                   	-                   	Y (0.58)           	Non-effector
+SGCOL_007617-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_007619-T1 	-                   	-                   	Y (0.811)           	Non-effector
+SGCOL_007620-T1 	-                   	-                   	Y (0.795)           	Non-effector
+SGCOL_007624-T1 	-                   	-                   	Y (0.648)           	Non-effector
+SGCOL_007625-T1 	-                   	Y (0.652)           	-                   	Apoplastic effector
+SGCOL_007626-T1 	-                   	-                   	Y (0.811)           	Non-effector
+SGCOL_007628-T1 	-                   	-                   	Y (0.743)           	Non-effector
+SGCOL_007629-T1 	-                   	-                   	Y (0.7)           	Non-effector
+SGCOL_007640-T1 	-                   	-                   	Y (0.659)           	Non-effector
+SGCOL_007642-T1 	-                   	-                   	Y (0.753)           	Non-effector
+SGCOL_007665-T1 	-                   	-                   	Y (0.923)           	Non-effector
+SGCOL_007675-T1 	Y (0.721)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007678-T1 	-                   	-                   	Y (0.632)           	Non-effector
+SGCOL_007679-T1 	-                   	-                   	Y (0.683)           	Non-effector
+SGCOL_007682-T1 	-                   	-                   	Y (0.637)           	Non-effector
+SGCOL_007686-T1 	-                   	Y (0.585)           	-                   	Apoplastic effector
+SGCOL_007694-T1 	-                   	-                   	Y (0.682)           	Non-effector
+SGCOL_007695-T1 	-                   	Y (0.682)           	-                   	Apoplastic effector
+SGCOL_007701-T1 	-                   	Y (0.51)           	-                   	Apoplastic effector
+SGCOL_007711-T1 	Y (0.857)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007712-T1 	-                   	-                   	Y (0.953)           	Non-effector
+SGCOL_007713-T1 	-                   	Y (0.935)           	-                   	Apoplastic effector
+SGCOL_007725-T1 	-                   	Y (0.764)           	-                   	Apoplastic effector
+SGCOL_007745-T1 	-                   	Y (0.528)           	-                   	Apoplastic effector
+SGCOL_007747-T1 	-                   	-                   	Y (0.693)           	Non-effector
+SGCOL_007749-T1 	-                   	-                   	Y (0.927)           	Non-effector
+SGCOL_007779-T1 	-                   	-                   	Y (0.916)           	Non-effector
+SGCOL_007791-T1 	-                   	Y (0.924)           	-                   	Apoplastic effector
+SGCOL_007795-T1 	-                   	-                   	Y (0.829)           	Non-effector
+SGCOL_007808-T1 	Y (0.671)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007814-T1 	-                   	Y (0.915)           	-                   	Apoplastic effector
+SGCOL_007819-T1 	Y (0.804)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007821-T1 	-                   	Y (0.502)           	-                   	Apoplastic effector
+SGCOL_007827-T1 	-                   	-                   	Y (0.662)           	Non-effector
+SGCOL_007834-T1 	-                   	-                   	Y (0.516)           	Non-effector
+SGCOL_007839-T1 	-                   	-                   	Y (0.535)           	Non-effector
+SGCOL_007840-T1 	-                   	-                   	Y (0.859)           	Non-effector
+SGCOL_007849-T1 	Y (0.747)           	-                   	-                   	Cytoplasmic effector
+SGCOL_007850-T1 	-                   	Y (0.932)           	-                   	Apoplastic effector
+SGCOL_007851-T1 	-                   	-                   	Y (0.754)           	Non-effector
+SGCOL_007852-T1 	-                   	-                   	Y (0.947)           	Non-effector
+SGCOL_007853-T1 	Y (0.626)           	Y (0.626)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_007856-T1 	-                   	-                   	Y (0.746)           	Non-effector
+SGCOL_007874-T1 	-                   	Y (0.893)           	-                   	Apoplastic effector
+SGCOL_007879-T1 	-                   	-                   	Y (0.683)           	Non-effector
+SGCOL_007882-T1 	-                   	Y (0.576)           	-                   	Apoplastic effector
+SGCOL_007898-T1 	Y (0.597)           	Y (0.753)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_007899-T1 	-                   	-                   	Y (0.912)           	Non-effector
+SGCOL_007900-T1 	-                   	Y (0.568)           	-                   	Apoplastic effector
+SGCOL_007910-T1 	-                   	Y (0.536)           	-                   	Apoplastic effector
+SGCOL_007916-T1 	-                   	-                   	Y (0.823)           	Non-effector
+SGCOL_007920-T1 	-                   	-                   	Y (0.862)           	Non-effector
+SGCOL_007922-T1 	-                   	-                   	Y (0.505)           	Non-effector
+SGCOL_007924-T1 	-                   	-                   	Y (0.924)           	Non-effector
+SGCOL_007927-T1 	-                   	Y (0.595)           	-                   	Apoplastic effector
+SGCOL_007946-T1 	-                   	-                   	Y (0.852)           	Non-effector
+SGCOL_007950-T1 	-                   	-                   	Y (0.867)           	Non-effector
+SGCOL_007963-T1 	-                   	-                   	Y (0.556)           	Non-effector
+SGCOL_008020-T1 	-                   	-                   	Y (0.673)           	Non-effector
+SGCOL_008026-T1 	-                   	-                   	Y (0.68)           	Non-effector
+SGCOL_008028-T1 	-                   	-                   	Y (0.929)           	Non-effector
+SGCOL_008062-T1 	-                   	-                   	Y (0.801)           	Non-effector
+SGCOL_008063-T1 	-                   	Y (0.785)           	-                   	Apoplastic effector
+SGCOL_008078-T1 	-                   	-                   	Y (0.922)           	Non-effector
+SGCOL_008089-T1 	-                   	-                   	Y (0.925)           	Non-effector
+SGCOL_008100-T1 	-                   	-                   	Y (0.71)           	Non-effector
+SGCOL_008105-T1 	-                   	-                   	Y (0.65)           	Non-effector
+SGCOL_008111-T1 	-                   	-                   	Y (0.933)           	Non-effector
+SGCOL_008112-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_008118-T1 	-                   	-                   	Y (0.78)           	Non-effector
+SGCOL_008127-T1 	-                   	-                   	Y (0.769)           	Non-effector
+SGCOL_008129-T1 	-                   	-                   	Y (0.772)           	Non-effector
+SGCOL_008130-T1 	-                   	-                   	Y (0.922)           	Non-effector
+SGCOL_008153-T1 	-                   	Y (0.551)           	-                   	Apoplastic effector
+SGCOL_008154-T1 	-                   	Y (0.684)           	-                   	Apoplastic effector
+SGCOL_008163-T1 	-                   	-                   	Y (0.672)           	Non-effector
+SGCOL_008164-T1 	-                   	Y (0.686)           	-                   	Apoplastic effector
+SGCOL_008179-T1 	-                   	-                   	Y (0.857)           	Non-effector
+SGCOL_008183-T1 	-                   	Y (0.645)           	-                   	Apoplastic effector
+SGCOL_008196-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_008199-T1 	-                   	-                   	Y (0.968)           	Non-effector
+SGCOL_008206-T1 	-                   	-                   	Y (0.565)           	Non-effector
+SGCOL_008209-T1 	-                   	-                   	Y (0.938)           	Non-effector
+SGCOL_008212-T1 	-                   	-                   	Y (0.64)           	Non-effector
+SGCOL_008215-T1 	-                   	Y (0.854)           	-                   	Apoplastic effector
+SGCOL_008216-T1 	-                   	Y (0.795)           	-                   	Apoplastic effector
+SGCOL_008230-T1 	-                   	-                   	Y (0.59)           	Non-effector
+SGCOL_008233-T1 	-                   	-                   	Y (0.966)           	Non-effector
+SGCOL_008234-T1 	-                   	-                   	Y (0.522)           	Non-effector
+SGCOL_008237-T1 	-                   	-                   	Y (0.631)           	Non-effector
+SGCOL_008245-T1 	-                   	-                   	Y (0.86)           	Non-effector
+SGCOL_008249-T1 	-                   	-                   	Y (0.702)           	Non-effector
+SGCOL_008252-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_008255-T1 	-                   	-                   	Y (0.878)           	Non-effector
+SGCOL_008258-T1 	-                   	-                   	Y (0.707)           	Non-effector
+SGCOL_008260-T1 	-                   	-                   	Y (0.531)           	Non-effector
+SGCOL_008268-T1 	-                   	-                   	Y (0.51)           	Non-effector
+SGCOL_008275-T1 	-                   	-                   	Y (0.96)           	Non-effector
+SGCOL_008303-T1 	-                   	-                   	Y (0.792)           	Non-effector
+SGCOL_008308-T1 	Y (0.795)           	-                   	-                   	Cytoplasmic effector
+SGCOL_008317-T1 	-                   	-                   	Y (0.841)           	Non-effector
+SGCOL_008323-T1 	-                   	-                   	Y (0.796)           	Non-effector
+SGCOL_008327-T1 	-                   	-                   	Y (0.865)           	Non-effector
+SGCOL_008328-T1 	Y (0.748)           	-                   	-                   	Cytoplasmic effector
+SGCOL_008333-T1 	-                   	Y (0.779)           	-                   	Apoplastic effector
+SGCOL_008335-T1 	-                   	Y (0.546)           	-                   	Apoplastic effector
+SGCOL_008337-T1 	-                   	-                   	Y (0.894)           	Non-effector
+SGCOL_008362-T1 	-                   	-                   	Y (0.814)           	Non-effector
+SGCOL_008363-T1 	-                   	-                   	Y (0.83)           	Non-effector
+SGCOL_008389-T1 	Y (0.707)           	Y (0.729)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_008390-T1 	Y (0.736)           	-                   	-                   	Cytoplasmic effector
+SGCOL_008402-T1 	Y (0.51)           	-                   	-                   	Cytoplasmic effector
+SGCOL_008411-T1 	-                   	Y (0.543)           	-                   	Apoplastic effector
+SGCOL_008413-T1 	-                   	-                   	Y (0.963)           	Non-effector
+SGCOL_008414-T1 	-                   	-                   	Y (0.623)           	Non-effector
+SGCOL_008419-T1 	-                   	-                   	Y (0.519)           	Non-effector
+SGCOL_008420-T1 	-                   	-                   	Y (0.666)           	Non-effector
+SGCOL_008438-T1 	-                   	-                   	Y (0.798)           	Non-effector
+SGCOL_008444-T1 	-                   	-                   	Y (0.912)           	Non-effector
+SGCOL_008446-T1 	-                   	-                   	Y (0.672)           	Non-effector
+SGCOL_008455-T1 	-                   	Y (0.706)           	-                   	Apoplastic effector
+SGCOL_008456-T1 	-                   	-                   	Y (0.986)           	Non-effector
+SGCOL_008461-T1 	-                   	-                   	Y (0.919)           	Non-effector
+SGCOL_008474-T1 	Y (0.765)           	-                   	-                   	Cytoplasmic effector
+SGCOL_008493-T1 	-                   	-                   	Y (0.962)           	Non-effector
+SGCOL_008497-T1 	-                   	-                   	Y (0.854)           	Non-effector
+SGCOL_008501-T1 	-                   	-                   	Y (0.962)           	Non-effector
+SGCOL_008503-T1 	-                   	-                   	Y (0.641)           	Non-effector
+SGCOL_008514-T1 	Y (0.559)           	-                   	-                   	Cytoplasmic effector
+SGCOL_008522-T1 	Y (0.564)           	Y (0.968)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_008526-T1 	-                   	-                   	Y (0.906)           	Non-effector
+SGCOL_008531-T1 	-                   	Y (0.715)           	-                   	Apoplastic effector
+SGCOL_008563-T1 	Y (0.635)           	-                   	-                   	Cytoplasmic effector
+SGCOL_008581-T1 	-                   	-                   	Y (0.941)           	Non-effector
+SGCOL_008587-T1 	-                   	-                   	Y (0.709)           	Non-effector
+SGCOL_008590-T1 	-                   	-                   	Y (0.502)           	Non-effector
+SGCOL_008593-T1 	-                   	-                   	Y (0.802)           	Non-effector
+SGCOL_008594-T1 	-                   	Y (0.894)           	-                   	Apoplastic effector
+SGCOL_008609-T1 	-                   	-                   	Y (0.528)           	Non-effector
+SGCOL_008610-T1 	-                   	-                   	Y (0.733)           	Non-effector
+SGCOL_008612-T1 	-                   	-                   	Y (0.632)           	Non-effector
+SGCOL_008639-T1 	-                   	-                   	Y (0.832)           	Non-effector
+SGCOL_008641-T1 	-                   	-                   	Y (0.547)           	Non-effector
+SGCOL_008644-T1 	-                   	-                   	Y (0.878)           	Non-effector
+SGCOL_008645-T1 	Y (0.807)           	Y (0.802)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_008671-T1 	-                   	-                   	Y (0.579)           	Non-effector
+SGCOL_008673-T1 	-                   	-                   	Y (0.663)           	Non-effector
+SGCOL_008675-T1 	-                   	-                   	Y (0.522)           	Non-effector
+SGCOL_008716-T1 	-                   	Y (0.518)           	-                   	Apoplastic effector
+SGCOL_008731-T1 	-                   	-                   	Y (0.637)           	Non-effector
+SGCOL_008750-T1 	Y (0.606)           	-                   	-                   	Cytoplasmic effector
+SGCOL_008795-T1 	-                   	-                   	Y (0.84)           	Non-effector
+SGCOL_008797-T1 	-                   	-                   	Y (0.618)           	Non-effector
+SGCOL_008805-T1 	-                   	-                   	Y (0.538)           	Non-effector
+SGCOL_008821-T1 	Y (0.536)           	Y (0.545)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_008870-T1 	-                   	Y (0.567)           	-                   	Apoplastic effector
+SGCOL_008878-T1 	Y (0.823)           	-                   	-                   	Cytoplasmic effector
+SGCOL_008879-T1 	-                   	-                   	Y (0.749)           	Non-effector
+SGCOL_008881-T1 	-                   	-                   	Y (0.548)           	Non-effector
+SGCOL_008891-T1 	-                   	-                   	Y (0.817)           	Non-effector
+SGCOL_008892-T1 	-                   	-                   	Y (0.624)           	Non-effector
+SGCOL_008896-T1 	-                   	-                   	Y (0.797)           	Non-effector
+SGCOL_008916-T1 	-                   	-                   	Y (0.788)           	Non-effector
+SGCOL_008927-T1 	-                   	-                   	Y (0.904)           	Non-effector
+SGCOL_008931-T1 	-                   	-                   	Y (0.936)           	Non-effector
+SGCOL_008932-T1 	Y (0.548)           	Y (0.726)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_008944-T1 	-                   	-                   	Y (0.914)           	Non-effector
+SGCOL_008955-T1 	-                   	-                   	Y (0.819)           	Non-effector
+SGCOL_008958-T1 	-                   	-                   	Y (0.974)           	Non-effector
+SGCOL_008963-T1 	-                   	Y (0.592)           	-                   	Apoplastic effector
+SGCOL_008969-T1 	-                   	-                   	Y (0.798)           	Non-effector
+SGCOL_008990-T1 	-                   	Y (0.564)           	-                   	Apoplastic effector
+SGCOL_008991-T1 	-                   	-                   	Y (0.757)           	Non-effector
+SGCOL_008992-T1 	-                   	-                   	Y (0.843)           	Non-effector
+SGCOL_008999-T1 	-                   	Y (0.943)           	-                   	Apoplastic effector
+SGCOL_009001-T1 	-                   	Y (0.814)           	-                   	Apoplastic effector
+SGCOL_009007-T1 	-                   	-                   	Y (0.903)           	Non-effector
+SGCOL_009012-T1 	-                   	-                   	Y (0.617)           	Non-effector
+SGCOL_009029-T1 	Y (0.677)           	Y (0.924)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_009043-T1 	-                   	-                   	Y (0.747)           	Non-effector
+SGCOL_009044-T1 	-                   	-                   	Y (0.526)           	Non-effector
+SGCOL_009049-T1 	-                   	-                   	Y (0.532)           	Non-effector
+SGCOL_009055-T1 	Y (0.946)           	Y (0.844)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_009063-T1 	-                   	-                   	Y (0.94)           	Non-effector
+SGCOL_009067-T1 	-                   	Y (0.927)           	-                   	Apoplastic effector
+SGCOL_009072-T1 	-                   	-                   	Y (0.691)           	Non-effector
+SGCOL_009074-T1 	-                   	-                   	Y (0.779)           	Non-effector
+SGCOL_009075-T1 	-                   	-                   	Y (0.786)           	Non-effector
+SGCOL_009078-T1 	-                   	-                   	Y (0.811)           	Non-effector
+SGCOL_009090-T1 	-                   	-                   	Y (0.829)           	Non-effector
+SGCOL_009100-T1 	-                   	-                   	Y (0.953)           	Non-effector
+SGCOL_009108-T1 	-                   	-                   	Y (0.846)           	Non-effector
+SGCOL_009110-T1 	-                   	-                   	Y (0.839)           	Non-effector
+SGCOL_009122-T1 	-                   	-                   	Y (0.797)           	Non-effector
+SGCOL_009131-T1 	-                   	Y (0.517)           	-                   	Apoplastic effector
+SGCOL_009136-T1 	-                   	-                   	Y (0.974)           	Non-effector
+SGCOL_009137-T1 	Y (0.546)           	-                   	-                   	Cytoplasmic effector
+SGCOL_009138-T1 	-                   	-                   	Y (0.837)           	Non-effector
+SGCOL_009147-T1 	-                   	-                   	Y (0.733)           	Non-effector
+SGCOL_009153-T1 	-                   	Y (0.774)           	-                   	Apoplastic effector
+SGCOL_009158-T1 	-                   	-                   	Y (0.561)           	Non-effector
+SGCOL_009182-T1 	-                   	-                   	Y (0.823)           	Non-effector
+SGCOL_009192-T1 	-                   	-                   	Y (0.823)           	Non-effector
+SGCOL_009213-T1 	-                   	-                   	Y (0.88)           	Non-effector
+SGCOL_009224-T1 	-                   	-                   	Y (0.717)           	Non-effector
+SGCOL_009227-T1 	-                   	Y (0.693)           	-                   	Apoplastic effector
+SGCOL_009228-T1 	-                   	-                   	Y (0.927)           	Non-effector
+SGCOL_009232-T1 	Y (0.506)           	-                   	-                   	Cytoplasmic effector
+SGCOL_009233-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_009234-T1 	-                   	-                   	Y (0.834)           	Non-effector
+SGCOL_009252-T1 	-                   	-                   	Y (0.74)           	Non-effector
+SGCOL_009268-T1 	-                   	-                   	Y (0.659)           	Non-effector
+SGCOL_009289-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCOL_009300-T1 	-                   	-                   	Y (0.975)           	Non-effector
+SGCOL_009322-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_009324-T1 	Y (0.728)           	Y (0.621)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_009326-T1 	-                   	-                   	Y (0.598)           	Non-effector
+SGCOL_009341-T1 	-                   	-                   	Y (0.914)           	Non-effector
+SGCOL_009354-T1 	-                   	-                   	Y (0.741)           	Non-effector
+SGCOL_009377-T1 	-                   	-                   	Y (0.566)           	Non-effector
+SGCOL_009382-T1 	-                   	-                   	Y (0.934)           	Non-effector
+SGCOL_009383-T1 	Y (0.579)           	-                   	-                   	Cytoplasmic effector
+SGCOL_009388-T1 	-                   	-                   	Y (0.941)           	Non-effector
+SGCOL_009397-T1 	Y (0.536)           	Y (0.834)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_009398-T1 	-                   	-                   	Y (0.871)           	Non-effector
+SGCOL_009424-T1 	-                   	-                   	Y (0.862)           	Non-effector
+SGCOL_009447-T1 	-                   	Y (0.609)           	-                   	Apoplastic effector
+SGCOL_009456-T1 	-                   	-                   	Y (0.871)           	Non-effector
+SGCOL_009460-T1 	-                   	-                   	Y (0.594)           	Non-effector
+SGCOL_009467-T1 	Y (0.605)           	-                   	-                   	Cytoplasmic effector
+SGCOL_009473-T1 	-                   	-                   	Y (0.754)           	Non-effector
+SGCOL_009496-T1 	-                   	-                   	Y (0.697)           	Non-effector
+SGCOL_009519-T1 	-                   	-                   	Y (0.86)           	Non-effector
+SGCOL_009530-T1 	-                   	-                   	Y (0.556)           	Non-effector
+SGCOL_009531-T1 	-                   	-                   	Y (0.584)           	Non-effector
+SGCOL_009553-T1 	-                   	-                   	Y (0.985)           	Non-effector
+SGCOL_009558-T1 	Y (0.878)           	-                   	-                   	Cytoplasmic effector
+SGCOL_009580-T1 	-                   	Y (0.871)           	-                   	Apoplastic effector
+SGCOL_009582-T1 	-                   	-                   	Y (0.955)           	Non-effector
+SGCOL_009584-T1 	-                   	-                   	Y (0.736)           	Non-effector
+SGCOL_009597-T1 	-                   	-                   	Y (0.77)           	Non-effector
+SGCOL_009598-T1 	-                   	-                   	Y (0.762)           	Non-effector
+SGCOL_009601-T1 	-                   	Y (0.571)           	-                   	Apoplastic effector
+SGCOL_009614-T1 	-                   	Y (0.646)           	-                   	Apoplastic effector
+SGCOL_009615-T1 	-                   	-                   	Y (0.914)           	Non-effector
+SGCOL_009616-T1 	-                   	Y (0.922)           	-                   	Apoplastic effector
+SGCOL_009626-T1 	-                   	Y (0.541)           	-                   	Apoplastic effector
+SGCOL_009632-T1 	-                   	-                   	Y (0.908)           	Non-effector
+SGCOL_009634-T1 	-                   	-                   	Y (0.666)           	Non-effector
+SGCOL_009642-T1 	-                   	Y (0.505)           	-                   	Apoplastic effector
+SGCOL_009648-T1 	-                   	-                   	Y (0.686)           	Non-effector
+SGCOL_009649-T1 	-                   	-                   	Y (0.552)           	Non-effector
+SGCOL_009670-T1 	-                   	-                   	Y (0.984)           	Non-effector
+SGCOL_009671-T1 	Y (0.612)           	Y (0.784)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_009673-T1 	-                   	-                   	Y (0.758)           	Non-effector
+SGCOL_009674-T1 	-                   	-                   	Y (0.66)           	Non-effector
+SGCOL_009675-T1 	-                   	-                   	Y (0.927)           	Non-effector
+SGCOL_009677-T1 	-                   	-                   	Y (0.7)           	Non-effector
+SGCOL_009678-T1 	-                   	-                   	Y (0.817)           	Non-effector
+SGCOL_009680-T1 	-                   	-                   	Y (0.889)           	Non-effector
+SGCOL_009681-T1 	-                   	-                   	Y (0.927)           	Non-effector
+SGCOL_009693-T1 	Y (0.647)           	-                   	-                   	Cytoplasmic effector
+SGCOL_009694-T1 	-                   	-                   	Y (0.781)           	Non-effector
+SGCOL_009709-T1 	Y (0.789)           	Y (0.796)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_009730-T1 	-                   	-                   	Y (0.816)           	Non-effector
+SGCOL_009735-T1 	-                   	-                   	Y (0.908)           	Non-effector
+SGCOL_009751-T1 	-                   	Y (0.72)           	-                   	Apoplastic effector
+SGCOL_009758-T1 	-                   	Y (0.633)           	-                   	Apoplastic effector
+SGCOL_009767-T1 	-                   	-                   	Y (0.733)           	Non-effector
+SGCOL_009772-T1 	-                   	-                   	Y (0.984)           	Non-effector
+SGCOL_009773-T1 	-                   	Y (0.661)           	-                   	Apoplastic effector
+SGCOL_009777-T1 	-                   	-                   	Y (0.716)           	Non-effector
+SGCOL_009778-T1 	-                   	-                   	Y (0.877)           	Non-effector
+SGCOL_009779-T1 	Y (0.675)           	-                   	-                   	Cytoplasmic effector
+SGCOL_009798-T1 	-                   	Y (0.838)           	-                   	Apoplastic effector
+SGCOL_009803-T1 	-                   	-                   	Y (0.986)           	Non-effector
+SGCOL_009811-T1 	-                   	Y (0.63)           	-                   	Apoplastic effector
+SGCOL_009813-T1 	-                   	-                   	Y (0.776)           	Non-effector
+SGCOL_009818-T1 	-                   	-                   	Y (0.961)           	Non-effector
+SGCOL_009822-T1 	-                   	-                   	Y (0.885)           	Non-effector
+SGCOL_009826-T1 	-                   	-                   	Y (0.856)           	Non-effector
+SGCOL_009828-T1 	-                   	-                   	Y (0.96)           	Non-effector
+SGCOL_009833-T1 	-                   	Y (0.899)           	-                   	Apoplastic effector
+SGCOL_009852-T1 	-                   	-                   	Y (0.776)           	Non-effector
+SGCOL_009863-T1 	-                   	-                   	Y (0.846)           	Non-effector
+SGCOL_009866-T1 	-                   	Y (0.623)           	-                   	Apoplastic effector
+SGCOL_009867-T1 	-                   	-                   	Y (0.604)           	Non-effector
+SGCOL_009869-T1 	-                   	-                   	Y (0.674)           	Non-effector
+SGCOL_009870-T1 	-                   	-                   	Y (0.708)           	Non-effector
+SGCOL_009878-T1 	-                   	Y (0.743)           	-                   	Apoplastic effector
+SGCOL_009887-T1 	-                   	-                   	Y (0.752)           	Non-effector
+SGCOL_009894-T1 	Y (0.552)           	Y (0.762)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_009899-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_009906-T1 	-                   	-                   	Y (0.721)           	Non-effector
+SGCOL_009909-T1 	-                   	-                   	Y (0.775)           	Non-effector
+SGCOL_009910-T1 	-                   	Y (0.726)           	-                   	Apoplastic effector
+SGCOL_009916-T1 	-                   	-                   	Y (0.55)           	Non-effector
+SGCOL_009921-T1 	-                   	-                   	Y (0.957)           	Non-effector
+SGCOL_009937-T1 	-                   	-                   	Y (0.636)           	Non-effector
+SGCOL_009941-T1 	-                   	-                   	Y (0.957)           	Non-effector
+SGCOL_009944-T1 	-                   	-                   	Y (0.877)           	Non-effector
+SGCOL_009963-T1 	-                   	-                   	Y (0.801)           	Non-effector
+SGCOL_009968-T1 	-                   	Y (0.732)           	-                   	Apoplastic effector
+SGCOL_009971-T1 	-                   	-                   	Y (0.718)           	Non-effector
+SGCOL_009972-T1 	-                   	-                   	Y (0.935)           	Non-effector
+SGCOL_009973-T1 	-                   	-                   	Y (0.96)           	Non-effector
+SGCOL_009974-T1 	-                   	Y (0.833)           	-                   	Apoplastic effector
+SGCOL_009977-T1 	-                   	-                   	Y (0.987)           	Non-effector
+SGCOL_009979-T1 	Y (0.91)           	-                   	-                   	Cytoplasmic effector
+SGCOL_009986-T1 	-                   	Y (0.918)           	-                   	Apoplastic effector
+SGCOL_009990-T1 	-                   	Y (0.619)           	-                   	Apoplastic effector
+SGCOL_010002-T1 	-                   	-                   	Y (0.8)           	Non-effector
+SGCOL_010005-T1 	-                   	-                   	Y (0.72)           	Non-effector
+SGCOL_010008-T1 	-                   	-                   	Y (0.895)           	Non-effector
+SGCOL_010011-T1 	-                   	Y (0.573)           	-                   	Apoplastic effector
+SGCOL_010020-T1 	-                   	Y (0.658)           	-                   	Apoplastic effector
+SGCOL_010037-T1 	-                   	-                   	Y (0.884)           	Non-effector
+SGCOL_010041-T1 	-                   	-                   	Y (0.551)           	Non-effector
+SGCOL_010045-T1 	-                   	-                   	Y (0.934)           	Non-effector
+SGCOL_010046-T1 	-                   	-                   	Y (0.899)           	Non-effector
+SGCOL_010047-T1 	-                   	-                   	Y (0.776)           	Non-effector
+SGCOL_010049-T1 	-                   	-                   	Y (0.625)           	Non-effector
+SGCOL_010053-T1 	-                   	-                   	Y (0.561)           	Non-effector
+SGCOL_010057-T1 	Y (0.627)           	Y (0.758)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_010098-T1 	Y (0.541)           	-                   	-                   	Cytoplasmic effector
+SGCOL_010144-T1 	Y (0.872)           	-                   	-                   	Cytoplasmic effector
+SGCOL_010149-T1 	-                   	-                   	Y (0.956)           	Non-effector
+SGCOL_010151-T1 	Y (0.623)           	-                   	-                   	Cytoplasmic effector
+SGCOL_010157-T1 	Y (0.661)           	Y (0.894)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_010163-T1 	-                   	-                   	Y (0.54)           	Non-effector
+SGCOL_010175-T1 	-                   	-                   	Y (0.801)           	Non-effector
+SGCOL_010188-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCOL_010194-T1 	-                   	-                   	Y (0.878)           	Non-effector
+SGCOL_010199-T1 	-                   	-                   	Y (0.828)           	Non-effector
+SGCOL_010202-T1 	-                   	-                   	Y (0.812)           	Non-effector
+SGCOL_010217-T1 	-                   	Y (0.696)           	-                   	Apoplastic effector
+SGCOL_010246-T1 	-                   	-                   	Y (0.815)           	Non-effector
+SGCOL_010266-T1 	Y (0.541)           	Y (0.752)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_010282-T1 	-                   	Y (0.513)           	-                   	Apoplastic effector
+SGCOL_010296-T1 	Y (0.84)           	-                   	-                   	Cytoplasmic effector
+SGCOL_010301-T1 	-                   	-                   	Y (0.863)           	Non-effector
+SGCOL_010305-T1 	-                   	-                   	Y (0.634)           	Non-effector
+SGCOL_010316-T1 	Y (0.777)           	-                   	-                   	Cytoplasmic effector
+SGCOL_010319-T1 	-                   	-                   	Y (0.769)           	Non-effector
+SGCOL_010356-T1 	-                   	-                   	Y (0.721)           	Non-effector
+SGCOL_010375-T1 	-                   	Y (0.573)           	-                   	Apoplastic effector
+SGCOL_010378-T1 	-                   	-                   	Y (0.827)           	Non-effector
+SGCOL_010379-T1 	-                   	Y (0.774)           	-                   	Apoplastic effector
+SGCOL_010380-T1 	-                   	Y (0.666)           	-                   	Apoplastic effector
+SGCOL_010385-T1 	-                   	-                   	Y (0.823)           	Non-effector
+SGCOL_010397-T1 	-                   	-                   	Y (0.584)           	Non-effector
+SGCOL_010407-T1 	-                   	-                   	Y (0.696)           	Non-effector
+SGCOL_010408-T1 	-                   	-                   	Y (0.76)           	Non-effector
+SGCOL_010410-T1 	-                   	-                   	Y (0.749)           	Non-effector
+SGCOL_010416-T1 	-                   	Y (0.808)           	-                   	Apoplastic effector
+SGCOL_010418-T1 	-                   	-                   	Y (0.667)           	Non-effector
+SGCOL_010425-T1 	-                   	-                   	Y (0.929)           	Non-effector
+SGCOL_010426-T1 	Y (0.836)           	Y (0.871)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_010445-T1 	-                   	-                   	Y (0.724)           	Non-effector
+SGCOL_010452-T1 	-                   	Y (0.765)           	-                   	Apoplastic effector
+SGCOL_010454-T1 	-                   	-                   	Y (0.903)           	Non-effector
+SGCOL_010455-T1 	-                   	-                   	Y (0.852)           	Non-effector
+SGCOL_010481-T1 	-                   	Y (0.521)           	-                   	Apoplastic effector
+SGCOL_010491-T1 	Y (0.9)           	-                   	-                   	Cytoplasmic effector
+SGCOL_010510-T1 	-                   	-                   	Y (0.659)           	Non-effector
+SGCOL_010512-T1 	-                   	-                   	Y (0.719)           	Non-effector
+SGCOL_010531-T1 	-                   	-                   	Y (0.923)           	Non-effector
+SGCOL_010550-T1 	-                   	-                   	Y (0.621)           	Non-effector
+SGCOL_010551-T1 	-                   	-                   	Y (0.985)           	Non-effector
+SGCOL_010562-T1 	-                   	-                   	Y (0.629)           	Non-effector
+SGCOL_010569-T1 	-                   	-                   	Y (0.599)           	Non-effector
+SGCOL_010575-T1 	Y (0.746)           	Y (0.868)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_010584-T1 	-                   	-                   	Y (0.875)           	Non-effector
+SGCOL_010585-T1 	-                   	-                   	Y (0.899)           	Non-effector
+SGCOL_010599-T1 	-                   	Y (0.71)           	-                   	Apoplastic effector
+SGCOL_010602-T1 	-                   	Y (0.86)           	-                   	Apoplastic effector
+SGCOL_010603-T1 	-                   	Y (0.892)           	-                   	Apoplastic effector
+SGCOL_010605-T1 	-                   	-                   	Y (0.655)           	Non-effector
+SGCOL_010612-T1 	Y (0.55)           	-                   	-                   	Cytoplasmic effector
+SGCOL_010698-T1 	-                   	-                   	Y (0.521)           	Non-effector
+SGCOL_010706-T1 	-                   	-                   	Y (0.734)           	Non-effector
+SGCOL_010708-T1 	-                   	-                   	Y (0.794)           	Non-effector
+SGCOL_010719-T1 	-                   	-                   	Y (0.958)           	Non-effector
+SGCOL_010722-T1 	-                   	-                   	Y (0.692)           	Non-effector
+SGCOL_010723-T1 	Y (0.629)           	Y (0.885)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_010724-T1 	-                   	-                   	Y (0.949)           	Non-effector
+SGCOL_010725-T1 	-                   	Y (0.733)           	-                   	Apoplastic effector
+SGCOL_010739-T1 	-                   	Y (0.603)           	-                   	Apoplastic effector
+SGCOL_010743-T1 	-                   	-                   	Y (0.987)           	Non-effector
+SGCOL_010745-T1 	-                   	Y (0.922)           	-                   	Apoplastic effector
+SGCOL_010752-T1 	Y (0.8)           	Y (0.891)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_010754-T1 	-                   	-                   	Y (0.851)           	Non-effector
+SGCOL_010761-T1 	-                   	-                   	Y (0.923)           	Non-effector
+SGCOL_010763-T1 	-                   	-                   	Y (0.697)           	Non-effector
+SGCOL_010764-T1 	-                   	-                   	Y (0.693)           	Non-effector
+SGCOL_010765-T1 	-                   	-                   	Y (0.785)           	Non-effector
+SGCOL_010774-T1 	-                   	-                   	Y (0.919)           	Non-effector
+SGCOL_010780-T1 	-                   	-                   	Y (0.733)           	Non-effector
+SGCOL_010783-T1 	-                   	-                   	Y (0.929)           	Non-effector
+SGCOL_010794-T1 	-                   	Y (0.509)           	-                   	Apoplastic effector
+SGCOL_010806-T1 	-                   	-                   	Y (0.592)           	Non-effector
+SGCOL_010809-T1 	-                   	-                   	Y (0.898)           	Non-effector
+SGCOL_010825-T1 	-                   	-                   	Y (0.958)           	Non-effector
+SGCOL_010828-T1 	-                   	Y (0.554)           	-                   	Apoplastic effector
+SGCOL_010835-T1 	-                   	-                   	Y (0.595)           	Non-effector
+SGCOL_010837-T1 	-                   	Y (0.7)           	-                   	Apoplastic effector
+SGCOL_010839-T1 	-                   	Y (0.865)           	-                   	Apoplastic effector
+SGCOL_010841-T1 	Y (0.895)           	-                   	-                   	Cytoplasmic effector
+SGCOL_010844-T1 	-                   	Y (0.62)           	-                   	Apoplastic effector
+SGCOL_010846-T1 	Y (0.892)           	Y (0.85)           	-                   	Cytoplasmic/apoplastic effector
+SGCOL_010863-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCOL_010894-T1 	-                   	-                   	Y (0.807)           	Non-effector
+SGCOL_010895-T1 	-                   	-                   	Y (0.533)           	Non-effector
+SGCOL_010897-T1 	-                   	-                   	Y (0.669)           	Non-effector
+SGCOL_010899-T1 	-                   	-                   	Y (0.862)           	Non-effector
+SGCOL_010900-T1 	-                   	-                   	Y (0.856)           	Non-effector
+SGCOL_010938-T1 	-                   	-                   	Y (0.842)           	Non-effector
+SGCOL_010955-T1 	-                   	-                   	Y (0.88)           	Non-effector
+SGCOL_010961-T1 	-                   	-                   	Y (0.986)           	Non-effector
+SGCOL_010979-T1 	-                   	-                   	Y (0.592)           	Non-effector
+SGCOL_010983-T1 	-                   	Y (0.501)           	-                   	Apoplastic effector
+SGCOL_010984-T1 	-                   	Y (0.78)           	-                   	Apoplastic effector
+SGCOL_011020-T1 	-                   	-                   	Y (0.697)           	Non-effector
+SGCOL_011023-T1 	-                   	-                   	Y (0.959)           	Non-effector
+SGCOL_011025-T1 	-                   	-                   	Y (0.844)           	Non-effector
+SGCOL_011029-T1 	-                   	-                   	Y (0.86)           	Non-effector
+SGCOL_011030-T1 	-                   	-                   	Y (0.511)           	Non-effector
+SGCOL_011031-T1 	Y (0.556)           	-                   	-                   	Cytoplasmic effector
+SGCOL_011039-T1 	-                   	-                   	Y (0.645)           	Non-effector
+SGCOL_011044-T1 	-                   	Y (0.723)           	-                   	Apoplastic effector
+SGCOL_011053-T1 	-                   	-                   	Y (0.782)           	Non-effector
+SGCOL_011059-T1 	-                   	Y (0.631)           	-                   	Apoplastic effector
+SGCOL_011062-T1 	-                   	-                   	Y (0.657)           	Non-effector
+SGCOL_011069-T1 	-                   	-                   	Y (0.728)           	Non-effector
+SGCOL_011073-T1 	-                   	Y (0.991)           	-                   	Apoplastic effector
+SGCOL_011089-T1 	-                   	-                   	Y (0.744)           	Non-effector
+SGCOL_011094-T1 	-                   	-                   	Y (0.632)           	Non-effector
+SGCOL_011124-T1 	-                   	-                   	Y (0.821)           	Non-effector
+SGCOL_011131-T1 	-                   	-                   	Y (0.725)           	Non-effector
+SGCOL_011147-T1 	-                   	-                   	Y (0.763)           	Non-effector
+SGCOL_011154-T1 	-                   	-                   	Y (0.723)           	Non-effector
+SGCOL_011158-T1 	-                   	-                   	Y (0.722)           	Non-effector
+SGCOL_011191-T1 	-                   	Y (0.803)           	-                   	Apoplastic effector
+SGCOL_011209-T1 	Y (0.684)           	-                   	-                   	Cytoplasmic effector
+SGCOL_011214-T1 	-                   	-                   	Y (0.718)           	Non-effector
+SGCOL_011221-T1 	Y (0.515)           	-                   	-                   	Cytoplasmic effector
+SGCOL_011223-T1 	-                   	Y (0.763)           	-                   	Apoplastic effector
+SGCOL_011228-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_011231-T1 	-                   	-                   	Y (0.875)           	Non-effector
+SGCOL_011233-T1 	-                   	-                   	Y (0.694)           	Non-effector
+SGCOL_011239-T1 	-                   	-                   	Y (0.556)           	Non-effector
+SGCOL_011243-T1 	-                   	-                   	Y (0.787)           	Non-effector
+SGCOL_011246-T1 	-                   	Y (0.994)           	-                   	Apoplastic effector
+SGCOL_011247-T1 	-                   	-                   	Y (0.88)           	Non-effector
+SGCOL_011255-T1 	-                   	-                   	Y (0.563)           	Non-effector
+SGCOL_011257-T1 	-                   	-                   	Y (0.974)           	Non-effector
+SGCOL_011258-T1 	-                   	Y (0.752)           	-                   	Apoplastic effector
+SGCOL_011261-T1 	-                   	-                   	Y (0.958)           	Non-effector
+SGCOL_011262-T1 	-                   	Y (0.598)           	-                   	Apoplastic effector
+SGCOL_011287-T1 	-                   	-                   	Y (0.75)           	Non-effector
+SGCOL_011293-T1 	-                   	-                   	Y (0.925)           	Non-effector
+SGCOL_011297-T1 	Y (0.63)           	-                   	-                   	Cytoplasmic effector
+SGCOL_011300-T1 	-                   	-                   	Y (0.748)           	Non-effector
+SGCOL_011301-T1 	-                   	Y (0.592)           	-                   	Apoplastic effector
+SGCOL_011310-T1 	-                   	-                   	Y (0.808)           	Non-effector
+SGCOL_011312-T1 	-                   	-                   	Y (0.593)           	Non-effector
+SGCOL_011330-T1 	-                   	-                   	Y (0.92)           	Non-effector
+SGCOL_011340-T1 	Y (0.573)           	-                   	-                   	Cytoplasmic effector
+SGCOL_011347-T1 	Y (0.668)           	-                   	-                   	Cytoplasmic effector
+SGCOL_011348-T1 	-                   	-                   	Y (0.627)           	Non-effector
+SGCOL_011354-T1 	-                   	-                   	Y (0.933)           	Non-effector
+SGCOL_011381-T1 	-                   	-                   	Y (0.954)           	Non-effector
+SGCOL_011385-T1 	-                   	-                   	Y (0.889)           	Non-effector
+SGCOL_011392-T1 	-                   	-                   	Y (0.846)           	Non-effector
+SGCOL_011393-T1 	Y (0.577)           	-                   	-                   	Cytoplasmic effector
+SGCOL_011394-T1 	-                   	-                   	Y (0.606)           	Non-effector
+SGCOL_011406-T1 	-                   	-                   	Y (0.541)           	Non-effector
+SGCOL_011408-T1 	-                   	-                   	Y (0.582)           	Non-effector
+SGCOL_011425-T1 	-                   	-                   	Y (0.612)           	Non-effector
+SGCOL_011427-T1 	-                   	-                   	Y (0.54)           	Non-effector
+SGCOL_011435-T1 	-                   	-                   	Y (0.618)           	Non-effector
+SGCOL_011441-T1 	-                   	Y (0.819)           	-                   	Apoplastic effector
+SGCOL_011446-T1 	-                   	-                   	Y (0.705)           	Non-effector
+SGCOL_011458-T1 	Y (0.61)           	Y (0.861)           	-                   	Apoplastic/cytoplasmic effector
+SGCOL_011459-T1 	-                   	-                   	Y (0.664)           	Non-effector
+SGCOL_011461-T1 	-                   	Y (0.702)           	-                   	Apoplastic effector
+SGCOL_011462-T1 	-                   	-                   	Y (0.914)           	Non-effector
+SGCOL_011469-T1 	-                   	-                   	Y (0.826)           	Non-effector
+SGCOL_011471-T1 	-                   	-                   	Y (0.842)           	Non-effector
+SGCOL_011482-T1 	-                   	-                   	Y (0.79)           	Non-effector
+SGCOL_011485-T1 	Y (0.6)           	-                   	-                   	Cytoplasmic effector
+SGCOL_011491-T1 	-                   	-                   	Y (0.985)           	Non-effector
+SGCOL_011501-T1 	-                   	-                   	Y (0.81)           	Non-effector
+SGCOL_011502-T1 	-                   	Y (0.56)           	-                   	Apoplastic effector
+SGCOL_011542-T1 	-                   	Y (0.684)           	-                   	Apoplastic effector
+SGCOL_011549-T1 	-                   	-                   	Y (0.711)           	Non-effector
+SGCOL_011572-T1 	-                   	-                   	Y (0.98)           	Non-effector
+SGCOL_011589-T1 	-                   	-                   	Y (0.979)           	Non-effector
+SGCOL_011595-T1 	-                   	-                   	Y (0.553)           	Non-effector
+SGCOL_011596-T1 	-                   	Y (0.878)           	-                   	Apoplastic effector
+SGCOL_011625-T1 	-                   	-                   	Y (0.656)           	Non-effector
+SGCOL_011628-T1 	-                   	-                   	Y (0.85)           	Non-effector
+SGCOL_011645-T1 	-                   	Y (0.799)           	-                   	Apoplastic effector
+SGCOL_011649-T1 	-                   	-                   	Y (0.892)           	Non-effector
+SGCOL_011650-T1 	-                   	-                   	Y (0.928)           	Non-effector
+SGCOL_011652-T1 	-                   	-                   	Y (0.655)           	Non-effector
+SGCOL_011663-T1 	-                   	-                   	Y (0.628)           	Non-effector
+SGCOL_011673-T1 	-                   	-                   	Y (0.611)           	Non-effector
+SGCOL_011674-T1 	-                   	-                   	Y (0.712)           	Non-effector
+SGCOL_011683-T1 	-                   	-                   	Y (0.702)           	Non-effector
+SGCOL_011686-T1 	-                   	-                   	Y (0.62)           	Non-effector
+SGCOL_011693-T1 	-                   	-                   	Y (0.98)           	Non-effector
+SGCOL_011702-T1 	-                   	-                   	Y (0.843)           	Non-effector
+SGCOL_011710-T1 	-                   	-                   	Y (0.883)           	Non-effector
+SGCOL_011712-T1 	Y (0.518)           	-                   	-                   	Cytoplasmic effector
+SGCOL_011727-T1 	-                   	-                   	Y (0.785)           	Non-effector
+SGCOL_011731-T1 	-                   	-                   	Y (0.789)           	Non-effector
+SGCOL_011734-T1 	-                   	-                   	Y (0.956)           	Non-effector
+SGCOL_011742-T1 	-                   	-                   	Y (0.875)           	Non-effector
+SGCOL_011751-T1 	-                   	Y (0.802)           	-                   	Apoplastic effector
+SGCOL_011752-T1 	-                   	-                   	Y (0.682)           	Non-effector
+SGCOL_011760-T1 	-                   	Y (0.838)           	-                   	Apoplastic effector
+SGCOL_011762-T1 	-                   	Y (0.922)           	-                   	Apoplastic effector
+SGCOL_011767-T1 	-                   	-                   	Y (0.889)           	Non-effector
+SGCOL_011775-T1 	-                   	Y (0.529)           	-                   	Apoplastic effector
+SGCOL_011778-T1 	Y (0.658)           	-                   	-                   	Cytoplasmic effector
+SGCOL_011786-T1 	-                   	-                   	Y (0.746)           	Non-effector
+SGCOL_011797-T1 	-                   	Y (0.611)           	-                   	Apoplastic effector
+SGCOL_011817-T1 	-                   	Y (0.923)           	-                   	Apoplastic effector
+SGCOL_011822-T1 	-                   	-                   	Y (0.563)           	Non-effector
+SGCOL_011864-T1 	-                   	-                   	Y (0.745)           	Non-effector
+SGCOL_011872-T1 	-                   	Y (0.723)           	-                   	Apoplastic effector
+SGCOL_011875-T1 	-                   	-                   	Y (0.92)           	Non-effector
+SGCOL_011878-T1 	-                   	-                   	Y (0.62)           	Non-effector
+SGCOL_011880-T1 	-                   	-                   	Y (0.929)           	Non-effector
+SGCOL_011884-T1 	-                   	Y (0.566)           	-                   	Apoplastic effector
+SGCOL_011888-T1 	-                   	-                   	Y (0.523)           	Non-effector
+SGCOL_011895-T1 	-                   	-                   	Y (0.935)           	Non-effector
+SGCOL_011897-T1 	-                   	-                   	Y (0.851)           	Non-effector
+SGCOL_011903-T1 	-                   	-                   	Y (0.868)           	Non-effector
+SGCOL_011904-T1 	-                   	-                   	Y (0.934)           	Non-effector
+SGCOL_011929-T1 	-                   	-                   	Y (0.921)           	Non-effector
+SGCOL_011936-T1 	-                   	Y (0.676)           	-                   	Apoplastic effector
+SGCOL_011961-T1 	-                   	-                   	Y (0.727)           	Non-effector
+SGCOL_011983-T1 	-                   	-                   	Y (0.666)           	Non-effector
+SGCOL_011989-T1 	Y (0.507)           	-                   	-                   	Cytoplasmic effector
+SGCOL_012004-T1 	-                   	Y (0.669)           	-                   	Apoplastic effector
+SGCOL_012005-T1 	-                   	-                   	Y (0.956)           	Non-effector
+SGCOL_012007-T1 	-                   	-                   	Y (0.964)           	Non-effector
+SGCOL_012010-T1 	-                   	-                   	Y (0.668)           	Non-effector

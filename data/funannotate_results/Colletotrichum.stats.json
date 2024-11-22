@@ -1,0 +1,119 @@
+{
+    "format": "annotation",
+    "command": "/opt/linux/rocky/8.x/x86_64/pkgs/funannotate/1.8/env/bin/funannotate annotate --sbt /bigdata/stajichlab/cassande/eisenlab/sg_colleo/funannotate/lib/sbt/draft.sbt --busco_db fungi_odb10 -i annotate/Colletotrichum --species Colletotrichum --strain  --cpus 16 --force",
+    "organism": "Colletotrichum",
+    "software": {
+        "name": "funannotate",
+        "version": "1.8.14",
+        "date": "2023-03-31",
+        "resources": {
+            "pfam": {
+                "type": "hmmer3",
+                "version": "35.0",
+                "date": "2021-11",
+                "num-records": "19632"
+            },
+            "gene2product": {
+                "type": "text",
+                "version": "1.88",
+                "date": "2023-02-14",
+                "num-records": "34365"
+            },
+            "interpro": {
+                "type": "xml",
+                "version": "92.0",
+                "date": "2022-12-07",
+                "num-records": "38349"
+            },
+            "dbCAN": {
+                "type": "hmmer3",
+                "version": "9.0",
+                "date": "2020-08-04",
+                "num-records": "641"
+            },
+            "busco_outgroups": {
+                "type": "outgroups",
+                "version": "1.0",
+                "date": "2023-02-14",
+                "num-records": "8"
+            },
+            "merops": {
+                "type": "diamond",
+                "version": "12.0",
+                "date": "2017-10-04",
+                "num-records": "5009"
+            },
+            "mibig": {
+                "type": "diamond",
+                "version": "1.4",
+                "date": "2020-11-29",
+                "num-records": "31023"
+            },
+            "uniprot": {
+                "type": "diamond",
+                "version": "2022_05",
+                "date": "2022-12-14",
+                "num-records": "568744"
+            },
+            "go": {
+                "type": "text",
+                "version": "2023-01-01",
+                "date": "2023-01-01",
+                "num-records": "47417"
+            },
+            "repeats": {
+                "type": "diamond",
+                "version": "1.0",
+                "date": "2020-11-29",
+                "num-records": "11950"
+            }
+        }
+    },
+    "assembly": {
+        "num_contigs": 168,
+        "length": 48026924,
+        "mean_length": 285874.55,
+        "N50": 506655,
+        "L50": 32,
+        "N90": 194696,
+        "L90": 90,
+        "GC_content": 52.29
+    },
+    "annotation": {
+        "genes": 12015,
+        "common_name": 2771,
+        "mRNA": 11678,
+        "tRNA": 337,
+        "ncRNA": 0,
+        "rRNA": 0,
+        "avg_gene_length": 1552.31,
+        "transcript-level": {
+            "CDS_transcripts": 11678,
+            "CDS_five_utr": 0,
+            "CDS_three_utr": 0,
+            "CDS_no_utr": 11678,
+            "CDS_five_three_utr": 0,
+            "CDS_complete": 11609,
+            "CDS_no-start": 26,
+            "CDS_no-stop": 41,
+            "CDS_no-start_no-stop": 2,
+            "total_exons": 32072,
+            "total_cds_exons": 32072,
+            "multiple_exon_transcript": 8882,
+            "single_exon_transcript": 2796,
+            "avg_exon_length": 454.77,
+            "avg_protein_length": 479.95,
+            "functional": {
+                "go_terms": 6899,
+                "interproscan": 9372,
+                "eggnog": 11479,
+                "pfam": 8306,
+                "cazyme": 683,
+                "merops": 440,
+                "busco": 757,
+                "secretion": 1439
+            },
+            "pct_exon_overlap_protein_evidence": 1.35
+        }
+    }
+}

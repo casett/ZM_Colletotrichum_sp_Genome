@@ -1,0 +1,40 @@
+#This file gives some summary info about the masking, total, by class and by family
+#(all repeats are detailed in the file RepeatMasker/Colletotrichum.sorted.fasta.out.parseRM.all-repeats.tab)
+#Overlap or double corresponds to DNA fragments that are masked by several elements.
+#These amounts need to be subtracted in order to get more accurate TE amount.
+#If a .align file was parsed, these amounts will be much higher than for the associated .out
+#Note that overlaps may not be parsed correctly if names are not formatted consistently (Rname#Rclass/Rfam)
+
+#TOTAL:
+#nt_total_in_genome	nt_masked-minus-double	%_masked	FYI:nt_masked_double
+nd	815093	nd	47020
+
+#BY CLASS
+#class	nt_masked-minus-double	%_masked	FYI:nt_masked_double
+DNA	24003	nd	0
+LINE	1286	nd	0
+LTR	362226	nd	1259
+SINE?	5084	nd	0
+Unknown	422494	nd	45713
+
+#BY FAMILY
+#family	nt_masked-minus-double	%_masked	FYI:nt_masked_double
+Tad1	1235	nd	0
+P-Fungi	122	nd	0
+SINE?	5084	nd	0
+TcMar-Pogo	45	nd	0
+LTR	194	nd	0
+hAT-Restless	73	nd	0
+Academ-H	71	nd	0
+TcMar-Fot1	22564	nd	0
+TcMar-Tc1	72	nd	0
+Unknown	422494	nd	45713
+CRE	51	nd	0
+Copia	2144	nd	0
+TcMar-Ant1	179	nd	0
+P	44	nd	0
+PIF-Harbinger	409	nd	0
+Crypton-F	47	nd	0
+CMC-EnSpm	377	nd	0
+Ngaro	46	nd	0
+Gypsy	359842	nd	1259

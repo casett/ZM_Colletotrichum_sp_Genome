@@ -1,0 +1,59 @@
+==================================================
+file name: Colletotrichum.sorted.fasta
+sequences:           168
+total length:   48026924 bp  (48026495 bp excl N/X-runs)
+GC level:         52.29 %
+bases masked:    1376507 bp ( 2.87 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements          326       369209 bp    0.77 %
+   SINEs:               39         4926 bp    0.01 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:               12         1249 bp    0.00 %
+    CRE/SLACS            1           51 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       275       363034 bp    0.76 %
+     BEL/Pao             0            0 bp    0.00 %
+     Ty1/Copia          31         1984 bp    0.00 %
+     Gypsy/DIRS1       241       360810 bp    0.75 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons         53        23980 bp    0.05 %
+   hobo-Activator        1           73 bp    0.00 %
+   Tc1-IS630-Pogo       37        22863 bp    0.05 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     4          409 bp    0.00 %
+   Other (Mirage,        1           18 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:         1350       421472 bp    0.88 %
+
+Total interspersed repeats:      814661 bp    1.70 %
+
+
+Small RNA:             149        21088 bp    0.04 %
+
+Satellites:              1           64 bp    0.00 %
+Simple repeats:      12045       477939 bp    1.00 %
+Low complexity:       1264        62755 bp    0.13 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.1 , default mode
+                                        
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Colletotrichum.repeatmodeler-library_plusRepBase.fasta"
+

@@ -1,0 +1,19 @@
+HOG	OG	Function	Effector	CLE4
+N33.HOG0000164	OG0000000	Nucleoside phosphorylase domain-containing protein	NA	SHARED
+N33.HOG0002334	OG0000088	Short-chain dehydrogenase	NA	UNIQUE
+N33.HOG0006267	OG0000679	Uncharacterized protein	NA	SHARED
+N33.HOG0006690	OG0000783	Zn(2)-C6 fungal-type domain-containing protein	NA	SHARED
+N33.HOG0016987	OG0007957	Uncharacterized protein	NA	SHARED
+N33.HOG0019016	OG0009379	Uncharacterized protein	NA	UNIQUE
+N33.HOG0019042	OG0009397	Monocarboxylate transporter	NA	SHARED
+N33.HOG0021326	OG0011579	NACHT domain-containing protein	NA	SHARED
+N33.HOG0022382	OG0013156	NodB homology domain-containing protein	NA	SHARED
+N33.HOG0022759	OG0013740	FAD-binding domain containing protein	Apoplastic effector	SHARED
+N33.HOG0025222	OG0017281	Leptomycin B resistance	NA	SHARED
+N33.HOG0025883	OG0018324	Uncharacterized protein	NA	SHARED
+N33.HOG0026347	OG0019066	Multicopper oxidase	Apoplastic effector	SHARED
+N33.HOG0028491	OG0022153	Major facillitator superfamily transporter	NA	SHARED
+N33.HOG0029394	OG0024324	Polyketide synthase 	NA	SHARED
+N33.HOG0036915	OG0033945	Uncharacterized protein	NA	SHARED
+N33.HOG0036941	OG0033971	Uncharacterized protein	NA	SHARED
+N33.HOG0038824	OG0037367	Transcription factor (ARO80)	NA	SHARED
