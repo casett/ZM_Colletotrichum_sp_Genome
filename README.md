@@ -1,5 +1,5 @@
 ## Github Repository for
-#   Genomic streamlining of seagrass-associated Colletotrichum sp. may be related to its adaptation to a marine monocot host 
+#   Genomic streamlining of seagrass-associated <i>Colletotrichum</i> sp. may be related to its adaptation to a marine monocot host 
  
 ## by Cassie Ettinger
 
